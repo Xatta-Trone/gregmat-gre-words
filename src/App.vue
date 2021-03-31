@@ -167,6 +167,7 @@
 
 <script>
 import words from "./words/words.json";
+import axios from "axios";
 export default {
   data: function () {
     return {
@@ -209,13 +210,31 @@ export default {
       current_word: null,
       searchquery: "",
       awaitingSearch: false,
+      aaa: null,
     };
   },
   mounted() {
+    this.getWords();
     this.currentWords = this.words;
     this.randomWord();
   },
   methods: {
+    getWords() {
+      console.log("words");
+      axios
+        .get(
+          "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words.json"
+        )
+        .then((res) => {
+          this.aaa = res.data;
+          let a = JSON.parse(res.data);
+          this.words = res.data;
+          console.log(a);
+          console.log(res.data);
+        })
+        .catch((err) => console.log(err));
+    },
+
     randomWord: function () {
       this.current_word = this.words[
         Math.floor(Math.random() * this.words.length)
