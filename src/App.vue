@@ -223,7 +223,7 @@ export default {
       console.log("words");
       axios
         .get(
-          "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words.json"
+          "https://github.com/Xatta-Trone/gregmat-gre-words/blob/main/src/words/words.json"
         )
         .then((res) => {
           this.aaa = res.data;
