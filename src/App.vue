@@ -237,6 +237,10 @@ export default {
         "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words47-52.json",
       ];
 
+      return Promise.all(links.map(this.getWordsFromLink)).then((res) => {
+        console.log("complete");
+      });
+
       axios
         .get(
           "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words1-8.json"
@@ -256,6 +260,11 @@ export default {
         .get(link)
         .then((res) => {
           console.log(res.data);
+
+          let newWords = [...this.words, ...res.data];
+
+          this.words = newWords;
+
           return {
             success: true,
             // data: response.data,
