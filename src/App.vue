@@ -166,20 +166,15 @@
 </template>
 
 <script>
-import words1t8 from "./words/words1t8.json";
-import words9t12 from "./words/words9t12.json";
-import words13t20 from "./words/words13t20.json";
-import words21t28 from "./words/words21t28.json";
-
 import axios from "axios";
 export default {
   data: function () {
     return {
-      // words,
-      words1t8,
-      words9t12,
-      words13t20,
-      words21t28,
+      words: [],
+      // words1t8,
+      // words9t12,
+      // words13t20,
+      // words21t28,
       currentWords: null,
 
       lower: [
@@ -222,25 +217,55 @@ export default {
     };
   },
   mounted() {
-    // this.getWords();
+    this.getWords();
     // this.currentWords = this.words;
     // this.randomWord();
-    console.log(this.words1t8);
-    console.log(this.words9t12);
+    // console.log(this.words1t8);
+    // console.log(this.words9t12);
   },
   methods: {
     getWords() {
       console.log("words");
+
+      let links = [
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words1-8.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words9-12.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words13-20.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words21-28.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words29-36.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words37-46.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words47-52.json",
+      ];
+
       axios
-        .get("")
+        .get(
+          "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words1-8.json"
+        )
         .then((res) => {
           this.aaa = res.data;
-          let a = JSON.parse(res.data);
+          // let a = JSON.parse(res.data);
           this.words = res.data;
-          console.log(a);
+          // console.log(a);
           console.log(res.data);
         })
         .catch((err) => console.log(err));
+    },
+
+    getWordsFromLink(link) {
+      return axios
+        .get(link)
+        .then((res) => {
+          console.log(res.data);
+          return {
+            success: true,
+            // data: response.data,
+            // word: word,
+          };
+        })
+        .catch((err) => {
+          console.log(err);
+          return { success: false };
+        });
     },
 
     randomWord: function () {
