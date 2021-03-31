@@ -166,12 +166,20 @@
 </template>
 
 <script>
-import words from "./words/words.json";
+import words1t8 from "./words/words1t8.json";
+import words9t12 from "./words/words9t12.json";
+import words13t20 from "./words/words13t20.json";
+import words21t28 from "./words/words21t28.json";
+
 import axios from "axios";
 export default {
   data: function () {
     return {
-      words,
+      // words,
+      words1t8,
+      words9t12,
+      words13t20,
+      words21t28,
       currentWords: null,
 
       lower: [
@@ -214,17 +222,17 @@ export default {
     };
   },
   mounted() {
-    this.getWords();
-    this.currentWords = this.words;
-    this.randomWord();
+    // this.getWords();
+    // this.currentWords = this.words;
+    // this.randomWord();
+    console.log(this.words1t8);
+    console.log(this.words9t12);
   },
   methods: {
     getWords() {
       console.log("words");
       axios
-        .get(
-          "https://github.com/Xatta-Trone/gregmat-gre-words/blob/main/src/words/words.json"
-        )
+        .get("")
         .then((res) => {
           this.aaa = res.data;
           let a = JSON.parse(res.data);

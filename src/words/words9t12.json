@@ -1,0 +1,4173 @@
+[
+    {
+        "word": "boorish",
+        "set": 9,
+        "id": 240,
+        "wordNo": 1,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Rough and bad-mannered; coarse.",
+                        "synonyms": [
+                            "coarse",
+                            "uncouth",
+                            "rude",
+                            "discourteous",
+                            "impolite",
+                            "ungentlemanly",
+                            "unladylike",
+                            "ill-bred",
+                            "ill-mannered",
+                            "churlish",
+                            "gruff",
+                            "uncivilized",
+                            "uncultured",
+                            "uncultivated",
+                            "unsophisticated",
+                            "unrefined",
+                            "common",
+                            "rough",
+                            "thuggish",
+                            "loutish"
+                        ],
+                        "example": "boorish behavior"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "brook",
+        "set": 9,
+        "id": 241,
+        "wordNo": 2,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small stream.",
+                        "synonyms": [
+                            "stream",
+                            "small river",
+                            "streamlet",
+                            "rivulet",
+                            "rill",
+                            "brooklet",
+                            "runnel",
+                            "runlet",
+                            "freshet",
+                            "gill"
+                        ],
+                        "example": "the Lake District boasts lovely lakes and babbling brooks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "circumspect",
+        "set": 9,
+        "id": 242,
+        "wordNo": 3,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Wary and unwilling to take risks.",
+                        "synonyms": [
+                            "cautious",
+                            "wary",
+                            "careful",
+                            "chary",
+                            "guarded",
+                            "on one's guard"
+                        ],
+                        "example": "the officials were very circumspect in their statements"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "comity",
+        "set": 9,
+        "id": 243,
+        "wordNo": 4
+    },
+    {
+        "word": "commensurate",
+        "set": 9,
+        "id": 244,
+        "wordNo": 5,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Corresponding in size or degree; in proportion.",
+                        "synonyms": [
+                            "equivalent",
+                            "equal",
+                            "corresponding",
+                            "correspondent",
+                            "comparable",
+                            "proportionate",
+                            "proportional"
+                        ],
+                        "example": "salary will be commensurate with experience"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "cordial",
+        "set": 9,
+        "id": 245,
+        "wordNo": 6,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sweet fruit-flavored drink.",
+                        "synonyms": [
+                            "liqueur"
+                        ],
+                        "example": "And some of the best ingredients to work with are cordials, liqueurs and schnapps."
+                    },
+                    {
+                        "definition": "A comforting or pleasant-tasting medicine.",
+                        "synonyms": [
+                            "stimulant",
+                            "restorative",
+                            "refresher",
+                            "cordial"
+                        ],
+                        "example": "More likely, it had particular currency for a British public that had been besieged for years with outrageous claims for cure-all tonics, pills, oils, and cordials in the ubiquitous advertisements for patent medicines."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Warm and friendly.",
+                        "synonyms": [
+                            "friendly",
+                            "warm",
+                            "genial",
+                            "affable",
+                            "amiable",
+                            "pleasant",
+                            "fond",
+                            "affectionate",
+                            "warm-hearted",
+                            "good-natured",
+                            "gracious",
+                            "hospitable",
+                            "welcoming"
+                        ],
+                        "example": "the atmosphere was cordial and relaxed"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "deleterious",
+        "set": 9,
+        "id": 246,
+        "wordNo": 7,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Causing harm or damage.",
+                        "synonyms": [
+                            "harmful",
+                            "damaging",
+                            "detrimental",
+                            "injurious",
+                            "inimical",
+                            "hurtful",
+                            "bad",
+                            "adverse",
+                            "disadvantageous",
+                            "unfavourable",
+                            "unfortunate",
+                            "undesirable"
+                        ],
+                        "example": "divorce is assumed to have deleterious effects on children"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "dichotomy",
+        "set": 9,
+        "id": 247,
+        "wordNo": 8,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+                        "synonyms": [
+                            "division",
+                            "separation",
+                            "divorce",
+                            "split",
+                            "gulf",
+                            "chasm"
+                        ],
+                        "example": "a rigid dichotomy between science and mysticism"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "edify",
+        "set": 9,
+        "id": 248,
+        "wordNo": 9,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Instruct or improve (someone) morally or intellectually.",
+                        "synonyms": [
+                            "educate",
+                            "instruct",
+                            "teach",
+                            "school",
+                            "tutor",
+                            "coach",
+                            "train",
+                            "guide"
+                        ],
+                        "example": "Rachel had edified their childhood with frequent readings from Belloc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "elicit",
+        "set": 9,
+        "id": 249,
+        "wordNo": 10,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Evoke or draw out (a response, answer, or fact) from someone in reaction to one's own actions or questions.",
+                        "synonyms": [
+                            "obtain",
+                            "bring out",
+                            "draw out",
+                            "extract",
+                            "evoke",
+                            "bring about",
+                            "bring forth",
+                            "induce",
+                            "excite",
+                            "give rise to",
+                            "call forth",
+                            "prompt",
+                            "generate",
+                            "engender",
+                            "spark off",
+                            "trigger",
+                            "kindle"
+                        ],
+                        "example": "they invariably elicit exclamations of approval from guests"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "erudite",
+        "set": 9,
+        "id": 250,
+        "wordNo": 11,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having or showing great knowledge or learning.",
+                        "synonyms": [
+                            "learned",
+                            "scholarly",
+                            "well educated",
+                            "knowledgeable",
+                            "well read",
+                            "widely read",
+                            "well versed",
+                            "well informed",
+                            "lettered",
+                            "cultured",
+                            "cultivated",
+                            "civilized",
+                            "intellectual"
+                        ],
+                        "example": "Ken could turn any conversation into an erudite discussion"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "fecund",
+        "set": 9,
+        "id": 251,
+        "wordNo": 12,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Producing or capable of producing an abundance of offspring or new growth; fertile.",
+                        "synonyms": [
+                            "fecund",
+                            "fruitful",
+                            "productive",
+                            "high-yielding",
+                            "prolific",
+                            "proliferating",
+                            "propagative",
+                            "generative"
+                        ],
+                        "example": "a lush and fecund garden"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "feeble",
+        "set": 9,
+        "id": 252,
+        "wordNo": 13,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Lacking physical strength, especially as a result of age or illness.",
+                        "synonyms": [
+                            "weak",
+                            "weakly",
+                            "weakened",
+                            "puny",
+                            "wasted",
+                            "frail",
+                            "infirm",
+                            "delicate",
+                            "sickly",
+                            "ailing",
+                            "unwell",
+                            "poorly",
+                            "failing",
+                            "helpless",
+                            "powerless",
+                            "impotent",
+                            "enfeebled",
+                            "enervated",
+                            "debilitated",
+                            "incapacitated",
+                            "effete"
+                        ],
+                        "example": "my legs are very feeble after the flu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "felicitous",
+        "set": 9,
+        "id": 253,
+        "wordNo": 14,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Well chosen or suited to the circumstances.",
+                        "synonyms": [
+                            "apt",
+                            "well chosen",
+                            "well expressed",
+                            "well put",
+                            "choice",
+                            "fitting",
+                            "suitable",
+                            "appropriate",
+                            "apposite",
+                            "pertinent",
+                            "germane",
+                            "to the point",
+                            "relevant",
+                            "congruous",
+                            "apropos"
+                        ],
+                        "example": "a felicitous phrase"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "forbear",
+        "set": 9,
+        "id": 254,
+        "wordNo": 15,
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Politely or patiently restrain an impulse to do something; refrain.",
+                        "synonyms": [
+                            "refrain",
+                            "abstain",
+                            "desist",
+                            "keep",
+                            "restrain oneself",
+                            "stop oneself",
+                            "hold back",
+                            "withhold"
+                        ],
+                        "example": "he modestly forbears to include his own work"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "haphazard",
+        "set": 9,
+        "id": 255,
+        "wordNo": 16,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Lacking any obvious principle of organization.",
+                        "synonyms": [
+                            "random",
+                            "unplanned",
+                            "unsystematic",
+                            "unmethodical",
+                            "disorganized",
+                            "disorderly",
+                            "irregular",
+                            "indiscriminate",
+                            "chaotic",
+                            "hit-and-miss",
+                            "arbitrary",
+                            "orderless",
+                            "aimless",
+                            "undirected",
+                            "careless",
+                            "casual",
+                            "slapdash",
+                            "slipshod"
+                        ],
+                        "example": "the kitchen drawers contained a haphazard collection of silver souvenir spoons"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "hodgepodge",
+        "set": 9,
+        "id": 256,
+        "wordNo": 17,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A confused mixture.",
+                        "synonyms": [
+                            "mixture",
+                            "mix",
+                            "mixed bag",
+                            "assortment",
+                            "assemblage",
+                            "collection",
+                            "selection",
+                            "jumble",
+                            "ragbag",
+                            "hotchpotch",
+                            "miscellany",
+                            "medley",
+                            "patchwork",
+                            "pot-pourri"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "impede",
+        "set": 9,
+        "id": 257,
+        "wordNo": 18,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Delay or prevent (someone or something) by obstructing them; hinder.",
+                        "synonyms": [
+                            "hinder",
+                            "obstruct",
+                            "hamper",
+                            "handicap",
+                            "hold back",
+                            "hold up",
+                            "delay",
+                            "interfere with",
+                            "disrupt",
+                            "retard",
+                            "slow",
+                            "slow down",
+                            "brake",
+                            "put a brake on",
+                            "restrain",
+                            "fetter",
+                            "shackle",
+                            "hamstring",
+                            "cramp",
+                            "cripple"
+                        ],
+                        "example": "the sap causes swelling that can impede breathing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "impetuous",
+        "set": 9,
+        "id": 258,
+        "wordNo": 19,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Acting or done quickly and without thought or care.",
+                        "synonyms": [
+                            "impulsive",
+                            "rash",
+                            "hasty",
+                            "overhasty",
+                            "reckless",
+                            "heedless",
+                            "foolhardy",
+                            "incautious",
+                            "imprudent",
+                            "injudicious",
+                            "ill-conceived",
+                            "ill-considered",
+                            "unplanned",
+                            "unreasoned",
+                            "unthought-out",
+                            "unthinking"
+                        ],
+                        "example": "her friend was headstrong and impetuous"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "irascible",
+        "set": 9,
+        "id": 259,
+        "wordNo": 20,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having or showing a tendency to be easily angered.",
+                        "synonyms": [
+                            "irritable",
+                            "quick-tempered",
+                            "short-tempered",
+                            "bad-tempered",
+                            "ill-tempered",
+                            "hot-tempered",
+                            "thin-skinned",
+                            "snappy",
+                            "snappish",
+                            "tetchy",
+                            "testy",
+                            "touchy",
+                            "edgy",
+                            "crabby",
+                            "waspish",
+                            "dyspeptic"
+                        ],
+                        "example": "an irascible man"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "mercenary",
+        "set": 9,
+        "id": 260,
+        "wordNo": 21,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A professional soldier hired to serve in a foreign army.",
+                        "synonyms": [
+                            "soldier of fortune",
+                            "professional soldier",
+                            "hired soldier",
+                            "hireling"
+                        ],
+                        "example": "he had planned to seize power with the aid of a group of mercenaries"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a person or their behavior) primarily concerned with making money at the expense of ethics.",
+                        "synonyms": [
+                            "money-oriented",
+                            "grasping",
+                            "greedy",
+                            "acquisitive",
+                            "avaricious",
+                            "covetous",
+                            "rapacious",
+                            "bribable",
+                            "venal",
+                            "materialistic"
+                        ],
+                        "example": "she's nothing but a mercenary little gold digger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "meticulous",
+        "set": 9,
+        "id": 261,
+        "wordNo": 22,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Showing great attention to detail; very careful and precise.",
+                        "synonyms": [
+                            "careful",
+                            "conscientious",
+                            "diligent",
+                            "ultra-careful",
+                            "scrupulous",
+                            "punctilious",
+                            "painstaking",
+                            "demanding",
+                            "exacting",
+                            "accurate",
+                            "correct"
+                        ],
+                        "example": "he had always been so meticulous about his appearance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "mordant",
+        "set": 9,
+        "id": 262,
+        "wordNo": 23,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Impregnate or treat (a fabric) with a mordant.",
+                        "example": "mordanting a fiber is simple"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A substance, typically an inorganic oxide, that combines with a dye or stain and thereby fixes it in a material.",
+                        "example": "In order to get the color to stick well on the fiber, the wool was usually pretreated with a metal compound called a mordant; common mordants, still used in craft dying, are compounds of aluminum, iron, copper, tin, and chromium."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(especially of humor) having or showing a sharp or critical quality; biting.",
+                        "synonyms": [
+                            "caustic",
+                            "trenchant",
+                            "biting",
+                            "cutting",
+                            "acerbic",
+                            "sardonic",
+                            "sarcastic",
+                            "scathing",
+                            "acid",
+                            "sharp",
+                            "keen",
+                            "tart",
+                            "pungent",
+                            "stinging",
+                            "astringent",
+                            "incisive",
+                            "devastating",
+                            "piercing",
+                            "rapier-like",
+                            "razor-edged"
+                        ],
+                        "example": "a mordant sense of humor"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "outstrip",
+        "set": 9,
+        "id": 263,
+        "wordNo": 24,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Move faster than and overtake (someone else)",
+                        "synonyms": [
+                            "go faster than",
+                            "outrun",
+                            "outdistance",
+                            "outpace",
+                            "leave behind",
+                            "get ahead of",
+                            "get further ahead of",
+                            "gain on",
+                            "draw away from",
+                            "overtake",
+                            "pass",
+                            "shake off",
+                            "throw off",
+                            "lose",
+                            "put distance between oneself and someone else",
+                            "widen the gap between oneself and someone else"
+                        ],
+                        "example": "during the morning warm-up, he once again outstripped the field"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "precarious",
+        "set": 9,
+        "id": 264,
+        "wordNo": 25,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Not securely held or in position; dangerously likely to fall or collapse.",
+                        "synonyms": [
+                            "dangerous",
+                            "hazardous",
+                            "perilous",
+                            "unsafe",
+                            "precarious",
+                            "risky",
+                            "deceptive",
+                            "unreliable",
+                            "undependable",
+                            "unstable"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "quirky",
+        "set": 9,
+        "id": 265,
+        "wordNo": 26,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Characterized by peculiar or unexpected traits.",
+                        "synonyms": [
+                            "eccentric",
+                            "idiosyncratic",
+                            "unconventional",
+                            "unorthodox",
+                            "unusual",
+                            "off-centre",
+                            "strange",
+                            "bizarre",
+                            "weird",
+                            "peculiar",
+                            "odd",
+                            "freakish",
+                            "outlandish",
+                            "offbeat",
+                            "out of the ordinary",
+                            "Bohemian",
+                            "alternative",
+                            "zany"
+                        ],
+                        "example": "her sense of humor was decidedly quirky"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "repudiate",
+        "set": 9,
+        "id": 266,
+        "wordNo": 27,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Refuse to accept or be associated with.",
+                        "synonyms": [
+                            "reject",
+                            "renounce",
+                            "abandon",
+                            "forswear",
+                            "give up",
+                            "turn one's back on",
+                            "have nothing more to do with",
+                            "wash one's hands of",
+                            "have no more truck with",
+                            "abjure",
+                            "disavow",
+                            "recant",
+                            "desert",
+                            "discard",
+                            "disown",
+                            "cast off",
+                            "lay aside",
+                            "cut off",
+                            "rebuff"
+                        ],
+                        "example": "she has repudiated policies associated with previous party leaders"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "tact",
+        "set": 9,
+        "id": 267,
+        "wordNo": 28,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Adroitness and sensitivity in dealing with others or with difficult issues.",
+                        "synonyms": [
+                            "sensitivity",
+                            "understanding",
+                            "thoughtfulness",
+                            "consideration",
+                            "delicacy",
+                            "diplomacy",
+                            "discretion",
+                            "discernment",
+                            "judgement",
+                            "prudence",
+                            "judiciousness",
+                            "perception",
+                            "subtlety",
+                            "wisdom",
+                            "tactfulness"
+                        ],
+                        "example": "the inspector broke the news to me with tact and consideration"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "trifling",
+        "set": 9,
+        "id": 268,
+        "wordNo": 29,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Unimportant or trivial.",
+                        "synonyms": [
+                            "trivial",
+                            "unimportant",
+                            "insignificant",
+                            "inconsequential",
+                            "petty",
+                            "minor",
+                            "of little account",
+                            "of no account",
+                            "of little consequence",
+                            "of no consequence",
+                            "not worth mentioning",
+                            "not worth bothering about",
+                            "light",
+                            "footling",
+                            "fiddling",
+                            "pettifogging",
+                            "incidental"
+                        ],
+                        "example": "a trifling sum"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "turbulent",
+        "set": 9,
+        "id": 269,
+        "wordNo": 30,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Characterized by conflict, disorder, or confusion; not controlled or calm.",
+                        "synonyms": [
+                            "tempestuous",
+                            "stormy",
+                            "unstable",
+                            "unsettled",
+                            "tumultuous",
+                            "explosive",
+                            "in turmoil",
+                            "full of upheavals",
+                            "full of conflict",
+                            "full of ups and downs",
+                            "roller-coaster",
+                            "chaotic",
+                            "full of confusion"
+                        ],
+                        "example": "the country's turbulent 20-year history"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "acumen",
+        "set": 10,
+        "id": 270,
+        "wordNo": 1,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The ability to make good judgments and quick decisions, typically in a particular domain.",
+                        "synonyms": [
+                            "astuteness",
+                            "awareness",
+                            "shrewdness",
+                            "acuity",
+                            "sharpness",
+                            "sharp-wittedness",
+                            "cleverness",
+                            "brightness",
+                            "smartness"
+                        ],
+                        "example": "business acumen"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "antithesis",
+        "set": 10,
+        "id": 271,
+        "wordNo": 2,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person or thing that is the direct opposite of someone or something else.",
+                        "synonyms": [
+                            "opposite",
+                            "direct opposite",
+                            "converse",
+                            "reverse",
+                            "reversal",
+                            "inverse",
+                            "obverse"
+                        ],
+                        "example": "love is the antithesis of selfishness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "ascribe",
+        "set": 10,
+        "id": 272,
+        "wordNo": 3,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Attribute something to (a cause)",
+                        "synonyms": [
+                            "attribute",
+                            "assign",
+                            "put down",
+                            "set down",
+                            "accredit",
+                            "credit",
+                            "give the credit for",
+                            "chalk up",
+                            "impute"
+                        ],
+                        "example": "he ascribed Jane's short temper to her upset stomach"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "befuddled",
+        "set": 10,
+        "id": 273,
+        "wordNo": 4,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Unable to think clearly; confused or perplexed.",
+                        "synonyms": [
+                            "confused",
+                            "muddled",
+                            "addled",
+                            "bewildered",
+                            "disoriented",
+                            "disorientated",
+                            "all at sea",
+                            "mixed up",
+                            "fazed",
+                            "perplexed",
+                            "stunned",
+                            "dazed",
+                            "dizzy",
+                            "stupefied",
+                            "groggy",
+                            "foggy",
+                            "fuzzy",
+                            "fuddled",
+                            "benumbed",
+                            "numbed",
+                            "numb",
+                            "vague"
+                        ],
+                        "example": "even in my befuddled state I could see that they meant trouble"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "eschew",
+        "set": 10,
+        "id": 274,
+        "wordNo": 5,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Deliberately avoid using; abstain from.",
+                        "synonyms": [
+                            "abstain from",
+                            "refrain from",
+                            "give up",
+                            "forgo",
+                            "forswear",
+                            "shun",
+                            "renounce",
+                            "swear off",
+                            "abjure",
+                            "steer clear of",
+                            "have nothing to do with",
+                            "give a wide berth to",
+                            "fight shy of",
+                            "relinquish",
+                            "reject",
+                            "dispense with",
+                            "disavow",
+                            "abandon",
+                            "deny",
+                            "gainsay",
+                            "disclaim",
+                            "repudiate",
+                            "renege on",
+                            "spurn",
+                            "abnegate",
+                            "abdicate",
+                            "wash one's hands of",
+                            "drop"
+                        ],
+                        "example": "he appealed to the crowd to eschew violence"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "esoteric",
+        "set": 10,
+        "id": 275,
+        "wordNo": 6,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.",
+                        "synonyms": [
+                            "abstruse",
+                            "obscure",
+                            "arcane",
+                            "recherché",
+                            "rarefied",
+                            "recondite",
+                            "abstract",
+                            "difficult",
+                            "hard",
+                            "puzzling",
+                            "perplexing",
+                            "enigmatic",
+                            "inscrutable",
+                            "cryptic",
+                            "Delphic"
+                        ],
+                        "example": "esoteric philosophical debates"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "evasive",
+        "set": 10,
+        "id": 276,
+        "wordNo": 7,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Tending to avoid commitment or self-revelation, especially by responding only indirectly.",
+                        "synonyms": [
+                            "prevaricating",
+                            "elusive",
+                            "ambiguous",
+                            "equivocal",
+                            "equivocating",
+                            "indefinite",
+                            "non-committal",
+                            "vague",
+                            "indeterminate",
+                            "imprecise",
+                            "inexact",
+                            "indistinct",
+                            "inexplicit"
+                        ],
+                        "example": "she was evasive about her phone number"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "exculpate",
+        "set": 10,
+        "id": 277,
+        "wordNo": 8,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Show or declare that (someone) is not guilty of wrongdoing.",
+                        "synonyms": [
+                            "release",
+                            "liberate",
+                            "free",
+                            "set free",
+                            "let go",
+                            "let out",
+                            "allow to leave",
+                            "let loose",
+                            "set loose",
+                            "turn loose"
+                        ],
+                        "example": "the article exculpated the mayor"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "expedite",
+        "set": 10,
+        "id": 278,
+        "wordNo": 9,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Make (an action or process) happen sooner or be accomplished more quickly.",
+                        "synonyms": [
+                            "speed up",
+                            "accelerate",
+                            "hurry",
+                            "hasten",
+                            "step up",
+                            "quicken",
+                            "precipitate",
+                            "rush"
+                        ],
+                        "example": "he promised to expedite economic reforms"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "fastidious",
+        "set": 10,
+        "id": 279,
+        "wordNo": 10,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Very attentive to and concerned about accuracy and detail.",
+                        "synonyms": [
+                            "scrupulous",
+                            "punctilious",
+                            "painstaking",
+                            "meticulous",
+                            "assiduous",
+                            "sedulous",
+                            "perfectionist",
+                            "fussy",
+                            "finicky",
+                            "dainty",
+                            "over-particular"
+                        ],
+                        "example": "he chooses his words with fastidious care"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "feign",
+        "set": 10,
+        "id": 280,
+        "wordNo": 11,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Pretend to be affected by (a feeling, state, or injury)",
+                        "synonyms": [
+                            "simulate",
+                            "fake",
+                            "sham",
+                            "affect",
+                            "give the appearance of",
+                            "make a show of",
+                            "make a pretence of",
+                            "play at",
+                            "go through the motions of"
+                        ],
+                        "example": "she feigned nervousness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "furtive",
+        "set": 10,
+        "id": 281,
+        "wordNo": 12,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.",
+                        "synonyms": [
+                            "secretive",
+                            "secret",
+                            "surreptitious"
+                        ],
+                        "example": "they spent a furtive day together"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "hamper",
+        "set": 10,
+        "id": 282,
+        "wordNo": 13,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large basket with a lid used for laundry.",
+                        "example": "a laundry hamper"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "indispensable",
+        "set": 10,
+        "id": 283,
+        "wordNo": 14,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Absolutely necessary.",
+                        "synonyms": [
+                            "essential",
+                            "crucial",
+                            "necessary",
+                            "key",
+                            "vital",
+                            "needed",
+                            "required",
+                            "called for",
+                            "requisite",
+                            "important",
+                            "all-important",
+                            "vitally important",
+                            "of the utmost importance",
+                            "of great consequence",
+                            "of the essence",
+                            "critical",
+                            "life-and-death",
+                            "imperative",
+                            "mandatory",
+                            "compulsory",
+                            "obligatory",
+                            "compelling",
+                            "urgent",
+                            "pressing",
+                            "burning",
+                            "acute",
+                            "paramount",
+                            "pre-eminent",
+                            "high-priority",
+                            "significant",
+                            "consequential"
+                        ],
+                        "example": "he made himself indispensable to the parish priest"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "lament",
+        "set": 10,
+        "id": 284,
+        "wordNo": 15,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Mourn (a person's loss or death)",
+                        "synonyms": [
+                            "mourn",
+                            "grieve",
+                            "grieve for",
+                            "grieve over",
+                            "weep for",
+                            "shed tears for"
+                        ],
+                        "example": "he was lamenting the death of his infant daughter"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A passionate expression of grief or sorrow.",
+                        "synonyms": [
+                            "wail",
+                            "wailing",
+                            "lamentation",
+                            "moan",
+                            "moaning",
+                            "groan",
+                            "weeping",
+                            "crying",
+                            "sob",
+                            "sobbing",
+                            "keening",
+                            "howl",
+                            "complaint"
+                        ],
+                        "example": "his mother's night-long laments for his father"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "myopic",
+        "set": 10,
+        "id": 285,
+        "wordNo": 16,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Nearsighted.",
+                        "synonyms": [
+                            "short-sighted"
+                        ],
+                        "example": "Approximately 62 million people in the United States are myopic (ie, nearsighted) and require eyeglasses or contact lenses for vision correction."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "nonchalant",
+        "set": 10,
+        "id": 286,
+        "wordNo": 17,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.",
+                        "synonyms": [
+                            "nonchalant",
+                            "untroubled",
+                            "unworried",
+                            "unruffled",
+                            "unconcerned",
+                            "lacking concern",
+                            "indifferent",
+                            "blasé",
+                            "heedless",
+                            "relaxed",
+                            "calm",
+                            "equable",
+                            "equanimous",
+                            "serene",
+                            "composed",
+                            "casual",
+                            "easy",
+                            "easy-going",
+                            "airy",
+                            "breezy",
+                            "carefree",
+                            "free and easy",
+                            "free from care",
+                            "free from worry",
+                            "happy-go-lucky",
+                            "light-hearted",
+                            "frivolous",
+                            "unserious"
+                        ],
+                        "example": "she gave a nonchalant shrug"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "partial",
+        "set": 10,
+        "id": 287,
+        "wordNo": 18,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A component of a musical sound; an overtone or harmonic.",
+                        "example": "the upper partials of the string"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Existing only in part; incomplete.",
+                        "synonyms": [
+                            "incomplete",
+                            "limited",
+                            "qualified",
+                            "restricted",
+                            "imperfect",
+                            "fragmentary",
+                            "unfinished"
+                        ],
+                        "example": "a question to which we have only partial answers"
+                    },
+                    {
+                        "definition": "Favoring one side in a dispute above the other; biased.",
+                        "synonyms": [
+                            "biased",
+                            "prejudiced",
+                            "partisan",
+                            "one-sided",
+                            "slanted",
+                            "skewed",
+                            "coloured",
+                            "interested",
+                            "parti pris",
+                            "discriminatory",
+                            "preferential",
+                            "jaundiced"
+                        ],
+                        "example": "the paper gave a distorted and very partial view of the situation"
+                    },
+                    {
+                        "definition": "Having a liking for.",
+                        "synonyms": [
+                            "like",
+                            "love",
+                            "enjoy",
+                            "have a liking for",
+                            "be fond of",
+                            "be keen on",
+                            "have a fondness for",
+                            "have a weakness for",
+                            "have a soft spot for",
+                            "have a taste for",
+                            "be taken with",
+                            "care for",
+                            "have a penchant for",
+                            "have a predilection for",
+                            "have a proclivity for",
+                            "be enamoured of"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "pensive",
+        "set": 10,
+        "id": 288,
+        "wordNo": 19,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Engaged in, involving, or reflecting deep or serious thought.",
+                        "synonyms": [
+                            "thoughtful",
+                            "thinking",
+                            "reflective",
+                            "contemplative",
+                            "musing",
+                            "meditative",
+                            "introspective",
+                            "prayerful",
+                            "philosophical",
+                            "cogitative",
+                            "ruminative",
+                            "absorbed",
+                            "engrossed",
+                            "rapt",
+                            "preoccupied",
+                            "deep in thought",
+                            "immersed in thought",
+                            "lost in thought",
+                            "in a brown study",
+                            "broody",
+                            "serious",
+                            "studious",
+                            "solemn",
+                            "dreamy",
+                            "dreaming"
+                        ],
+                        "example": "a pensive mood"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "portend",
+        "set": 10,
+        "id": 289,
+        "wordNo": 20,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Be a sign or warning that (something, especially something momentous or calamitous) is likely to happen.",
+                        "synonyms": [
+                            "presage",
+                            "augur",
+                            "foreshadow",
+                            "foretell",
+                            "prophesy"
+                        ],
+                        "example": "the eclipses portend some major events"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "provincial",
+        "set": 10,
+        "id": 290,
+        "wordNo": 21,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An inhabitant of a province of a country or empire.",
+                        "example": "Augustine was a local boy who made good, a provincial from the southern edge of Fourth-Century Roman Africa, vain and enslaved to a fierce mother."
+                    },
+                    {
+                        "definition": "An inhabitant of the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded.",
+                        "synonyms": [
+                            "bumpkin",
+                            "country bumpkin",
+                            "country cousin",
+                            "rustic",
+                            "yokel",
+                            "village idiot",
+                            "peasant",
+                            "churl",
+                            "lout",
+                            "boor",
+                            "oaf",
+                            "clown",
+                            "barbarian",
+                            "yahoo"
+                        ],
+                        "example": "a town populated by money-grubbers, philistines, and self-satisfied provincials"
+                    },
+                    {
+                        "definition": "The head or chief of a province or of a religious order in a province.",
+                        "example": "As provincial of his order, he addressed temperance meetings throughout Ireland."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or concerning a province of a country or empire.",
+                        "synonyms": [
+                            "non-metropolitan",
+                            "small-town",
+                            "non-urban",
+                            "outlying",
+                            "rural",
+                            "country",
+                            "rustic",
+                            "backwoods",
+                            "backwater"
+                        ],
+                        "example": "provincial elections"
+                    },
+                    {
+                        "definition": "Of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded.",
+                        "synonyms": [
+                            "regional",
+                            "state",
+                            "territorial",
+                            "district",
+                            "local"
+                        ],
+                        "example": "the whole exhibition struck one as being very provincial"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "rudimentary",
+        "set": 10,
+        "id": 291,
+        "wordNo": 22,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Involving or limited to basic principles.",
+                        "synonyms": [
+                            "basic",
+                            "elementary",
+                            "introductory",
+                            "early",
+                            "primary",
+                            "initial",
+                            "first"
+                        ],
+                        "example": "he received a rudimentary education"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "salutary",
+        "set": 10,
+        "id": 292,
+        "wordNo": 23,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(especially with reference to something unwelcome or unpleasant) producing good effects; beneficial.",
+                        "synonyms": [
+                            "beneficial",
+                            "good",
+                            "good for one",
+                            "advantageous",
+                            "profitable",
+                            "productive",
+                            "helpful",
+                            "useful",
+                            "of use",
+                            "of service",
+                            "valuable",
+                            "worthwhile",
+                            "practical"
+                        ],
+                        "example": "a salutary reminder of where we came from"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "sever",
+        "set": 10,
+        "id": 293,
+        "wordNo": 24,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Divide by cutting or slicing, especially suddenly and forcibly.",
+                        "synonyms": [
+                            "cut off",
+                            "chop off",
+                            "lop off",
+                            "hack off",
+                            "cleave",
+                            "hew off",
+                            "shear off",
+                            "slice off",
+                            "split"
+                        ],
+                        "example": "the head was severed from the body"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "slight",
+        "set": 10,
+        "id": 294,
+        "wordNo": 25,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Insult (someone) by treating or speaking of them without proper respect or attention.",
+                        "synonyms": [
+                            "insulting",
+                            "disparaging",
+                            "belittling",
+                            "derogatory",
+                            "disrespectful",
+                            "denigratory",
+                            "uncomplimentary",
+                            "pejorative",
+                            "abusive",
+                            "offensive",
+                            "defamatory",
+                            "slanderous",
+                            "libellous",
+                            "scurrilous"
+                        ],
+                        "example": "he was careful not to slight a guest"
+                    },
+                    {
+                        "definition": "Raze or destroy (a fortification)",
+                        "example": "a Council determined whether the Fort should be kept or slighted"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An insult caused by a failure to show someone proper respect or attention.",
+                        "synonyms": [
+                            "insult",
+                            "affront",
+                            "slur",
+                            "disparaging remark"
+                        ],
+                        "example": "an unintended slight can create grudges"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Small in degree; inconsiderable.",
+                        "synonyms": [
+                            "small",
+                            "modest",
+                            "little",
+                            "tiny",
+                            "minute",
+                            "inappreciable",
+                            "imperceptible",
+                            "infinitesimal",
+                            "hardly worth mentioning",
+                            "negligible",
+                            "inconsiderable",
+                            "insignificant",
+                            "minimal",
+                            "marginal"
+                        ],
+                        "example": "a slight increase"
+                    },
+                    {
+                        "definition": "(of a person or their build) not sturdy and strongly built.",
+                        "synonyms": [
+                            "slim",
+                            "slender",
+                            "slightly built",
+                            "petite",
+                            "diminutive",
+                            "small",
+                            "delicate",
+                            "dainty",
+                            "small-boned",
+                            "elfin"
+                        ],
+                        "example": "she was slight and delicate-looking"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "somnolent",
+        "set": 10,
+        "id": 295,
+        "wordNo": 26,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Sleepy; drowsy.",
+                        "synonyms": [
+                            "sleepy",
+                            "drowsy",
+                            "tired",
+                            "languid",
+                            "languorous",
+                            "heavy-eyed",
+                            "dozy",
+                            "nodding",
+                            "groggy",
+                            "half asleep",
+                            "asleep on one's feet",
+                            "yawning"
+                        ],
+                        "example": "My thesaurus lists all these unattractive equivalents indolent, somnolent, lumpish, torpid, slack, lax, good-for-nothing… and so on."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "stoic",
+        "set": 10,
+        "id": 296,
+        "wordNo": 27,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who can endure pain or hardship without showing their feelings or complaining.",
+                        "example": "The modest, by contrast, realise that, in the sum of history and geography, they're but a tiny, passing crater, and the stoics know that human pain has to be suffered and can't just be railed against."
+                    },
+                    {
+                        "definition": "A member of the ancient philosophical school of Stoicism.",
+                        "example": "One school of ancient philosophers, the Stoics, developed a distinctive view of Medea as part of their ethics and psychology."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "another term for stoical",
+                        "example": "a look of stoic resignation"
+                    },
+                    {
+                        "definition": "Of or belonging to the Stoics or their school of philosophy.",
+                        "example": "the Stoic philosophers"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "supersede",
+        "set": 10,
+        "id": 297,
+        "wordNo": 28,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Take the place of (a person or thing previously in authority or use); supplant.",
+                        "synonyms": [
+                            "replace",
+                            "supplant",
+                            "take the place of",
+                            "take over from",
+                            "substitute for",
+                            "displace",
+                            "oust",
+                            "overthrow",
+                            "remove",
+                            "unseat",
+                            "override"
+                        ],
+                        "example": "the older models have now been superseded"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "tout",
+        "set": 10,
+        "id": 298,
+        "wordNo": 29,
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Attempt to sell (something), typically by pestering people in an aggressive or bold manner.",
+                        "example": "Jim was touting his wares"
+                    },
+                    {
+                        "definition": "Offer racing tips for a share of any resulting winnings."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person soliciting custom or business, typically in an aggressive or bold manner.",
+                        "example": "This is the best term to use for touts - street hawkers who approach you at every tourist stop to ask you to buy things."
+                    },
+                    {
+                        "definition": "A person who offers racing tips for a share of any resulting winnings.",
+                        "example": "After a two-month trial, a former racetrack tout and his former accountant were found guilty of conspiracy to defraud people who invested in a racing syndicate."
+                    },
+                    {
+                        "definition": "An informer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "wane",
+        "set": 10,
+        "id": 299,
+        "wordNo": 30,
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "(of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.",
+                        "synonyms": [
+                            "disappear",
+                            "decrease",
+                            "diminish",
+                            "dwindle"
+                        ],
+                        "example": "Tory tried to see her reflection, but the moon was waning, the stars obscured by clouds."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "abhor",
+        "set": 11,
+        "id": 300,
+        "wordNo": 1,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Regard with disgust and hatred.",
+                        "synonyms": [
+                            "abhor",
+                            "hate",
+                            "loathe",
+                            "despise",
+                            "abominate",
+                            "execrate",
+                            "regard with disgust",
+                            "feel disgust for",
+                            "feel repugnance towards",
+                            "feel distaste for",
+                            "shrink from",
+                            "recoil from",
+                            "shudder at",
+                            "be unable to bear",
+                            "be unable to abide",
+                            "feel hostility to",
+                            "feel aversion to",
+                            "feel animosity to",
+                            "find intolerable",
+                            "dislike",
+                            "disdain",
+                            "have an aversion to"
+                        ],
+                        "example": "professional tax preparers abhor a flat tax because it would dry up their business"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "boisterous",
+        "set": 11,
+        "id": 301,
+        "wordNo": 2,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a person, event, or behavior) noisy, energetic, and cheerful; rowdy.",
+                        "synonyms": [
+                            "lively",
+                            "active",
+                            "animated",
+                            "exuberant",
+                            "spirited",
+                            "bouncy",
+                            "frisky",
+                            "excited",
+                            "overexcited",
+                            "in high spirits",
+                            "high-spirited",
+                            "ebullient",
+                            "vibrant",
+                            "rowdy",
+                            "unruly",
+                            "wild",
+                            "uproarious",
+                            "unrestrained",
+                            "undisciplined",
+                            "uninhibited",
+                            "uncontrolled",
+                            "abandoned",
+                            "rough",
+                            "romping",
+                            "rollicking",
+                            "disorderly",
+                            "knockabout",
+                            "riotous",
+                            "rip-roaring",
+                            "rumbustious",
+                            "roistering",
+                            "tumultuous"
+                        ],
+                        "example": "the boisterous conviviality associated with taverns of that period"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "chivalrous",
+        "set": 11,
+        "id": 302,
+        "wordNo": 3,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Courteous and gallant, especially toward women (typically used of a man or his behavior)",
+                        "synonyms": [
+                            "gallant",
+                            "gentlemanly",
+                            "honourable",
+                            "respectful",
+                            "thoughtful",
+                            "considerate",
+                            "protective",
+                            "attentive"
+                        ],
+                        "example": "shall I be chivalrous and offer you my coat?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "churlish",
+        "set": 11,
+        "id": 303,
+        "wordNo": 4,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Rude in a mean-spirited and surly way.",
+                        "synonyms": [
+                            "rude",
+                            "ill-mannered",
+                            "discourteous",
+                            "impolite",
+                            "ungracious",
+                            "unmannerly",
+                            "uncivil",
+                            "ungentlemanly",
+                            "ungallant",
+                            "unchivalrous"
+                        ],
+                        "example": "it seems churlish to complain"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "clandestine",
+        "set": 11,
+        "id": 304,
+        "wordNo": 5,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Kept secret or done secretively, especially because illicit.",
+                        "synonyms": [
+                            "secret",
+                            "covert",
+                            "furtive",
+                            "surreptitious",
+                            "stealthy",
+                            "cloak-and-dagger",
+                            "hole-and-corner",
+                            "hole-in-the-corner",
+                            "closet",
+                            "behind-the-scenes",
+                            "backstairs",
+                            "back-alley",
+                            "under-the-table",
+                            "hugger-mugger",
+                            "concealed",
+                            "hidden",
+                            "private"
+                        ],
+                        "example": "she deserved better than these clandestine meetings"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "complacent",
+        "set": 11,
+        "id": 305,
+        "wordNo": 6,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Showing smug or uncritical satisfaction with oneself or one's achievements.",
+                        "synonyms": [
+                            "smug",
+                            "self-satisfied",
+                            "pleased with oneself",
+                            "proud of oneself",
+                            "self-approving",
+                            "self-congratulatory",
+                            "self-admiring",
+                            "self-regarding"
+                        ],
+                        "example": "you can't afford to be complacent about security"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "cumbersome",
+        "set": 11,
+        "id": 306,
+        "wordNo": 7,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Large or heavy and therefore difficult to carry or use; unwieldy.",
+                        "synonyms": [
+                            "unwieldy",
+                            "unmanageable",
+                            "awkward",
+                            "clumsy",
+                            "ungainly",
+                            "inconvenient",
+                            "incommodious"
+                        ],
+                        "example": "cumbersome diving suits"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "debilitating",
+        "set": 11,
+        "id": 307,
+        "wordNo": 8,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a disease or condition) making someone very weak and infirm.",
+                        "example": "debilitating back pain"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "deliberate",
+        "set": 11,
+        "id": 308,
+        "wordNo": 9,
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Engage in long and careful consideration.",
+                        "example": "she deliberated over the menu"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Done consciously and intentionally.",
+                        "synonyms": [
+                            "intentional",
+                            "calculated",
+                            "conscious",
+                            "done on purpose",
+                            "intended",
+                            "planned",
+                            "meant",
+                            "considered",
+                            "studied",
+                            "knowing",
+                            "wilful",
+                            "wanton",
+                            "purposeful",
+                            "purposive",
+                            "premeditated",
+                            "pre-planned",
+                            "thought out in advance",
+                            "prearranged",
+                            "preconceived",
+                            "predetermined"
+                        ],
+                        "example": "a deliberate attempt to provoke conflict"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "droll",
+        "set": 11,
+        "id": 309,
+        "wordNo": 10,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A jester or entertainer; a buffoon.",
+                        "synonyms": [
+                            "humorist",
+                            "comedian",
+                            "comedienne",
+                            "comic",
+                            "funny man",
+                            "funny woman",
+                            "wag",
+                            "wit",
+                            "jester"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Curious or unusual in a way that provokes dry amusement.",
+                        "synonyms": [
+                            "funny",
+                            "humorous",
+                            "amusing",
+                            "comic",
+                            "comical",
+                            "mirthful",
+                            "chucklesome",
+                            "hilarious",
+                            "rollicking"
+                        ],
+                        "example": "his unique brand of droll self-mockery"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "eccentric",
+        "set": 11,
+        "id": 310,
+        "wordNo": 11,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person of unconventional and slightly strange views or behavior.",
+                        "synonyms": [
+                            "oddity",
+                            "odd fellow",
+                            "unorthodox person",
+                            "character",
+                            "individualist",
+                            "individual",
+                            "free spirit",
+                            "misfit"
+                        ],
+                        "example": "he enjoys a colorful reputation as an engaging eccentric"
+                    },
+                    {
+                        "definition": "A disc or wheel mounted eccentrically on a revolving shaft in order to transform rotation into backward-and-forward motion, e.g. a cam in an internal combustion engine."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a person or their behavior) unconventional and slightly strange.",
+                        "synonyms": [
+                            "unconventional",
+                            "uncommon",
+                            "abnormal",
+                            "irregular",
+                            "aberrant",
+                            "anomalous",
+                            "odd",
+                            "queer",
+                            "strange",
+                            "peculiar",
+                            "weird",
+                            "bizarre",
+                            "off-centre",
+                            "outlandish",
+                            "freakish",
+                            "extraordinary"
+                        ],
+                        "example": "my favorite aunt is very eccentric"
+                    },
+                    {
+                        "definition": "(of a thing) not placed centrally or not having its axis or other part placed centrally.",
+                        "example": "a servo driving an eccentric cam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "fractious",
+        "set": 11,
+        "id": 311,
+        "wordNo": 12,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(typically of children) irritable and quarrelsome.",
+                        "synonyms": [
+                            "grumpy",
+                            "grouchy",
+                            "crotchety",
+                            "in a mood",
+                            "in a bad mood",
+                            "cantankerous",
+                            "bad-tempered",
+                            "ill-tempered",
+                            "ill-natured",
+                            "ill-humoured",
+                            "peevish",
+                            "having got out of bed on the wrong side",
+                            "cross",
+                            "disagreeable",
+                            "pettish"
+                        ],
+                        "example": "they fight and squabble like fractious children"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "limpid",
+        "set": 11,
+        "id": 312,
+        "wordNo": 13,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a liquid) free of anything that darkens; completely clear.",
+                        "synonyms": [
+                            "clear",
+                            "transparent",
+                            "glassy",
+                            "glasslike",
+                            "crystal clear",
+                            "crystalline",
+                            "see-through",
+                            "translucent",
+                            "pellucid",
+                            "unclouded",
+                            "uncloudy"
+                        ],
+                        "example": "the limpid waters of the Caribbean"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "mawkish",
+        "set": 11,
+        "id": 313,
+        "wordNo": 14,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Sentimental in a feeble or sickly way.",
+                        "synonyms": [
+                            "sentimental",
+                            "over-sentimental",
+                            "overemotional",
+                            "cloying",
+                            "sickly",
+                            "saccharine",
+                            "sugary",
+                            "syrupy",
+                            "sickening",
+                            "nauseating",
+                            "maudlin",
+                            "lachrymose",
+                            "banal",
+                            "trite"
+                        ],
+                        "example": "a mawkish poem"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "obeisance",
+        "set": 11,
+        "id": 314,
+        "wordNo": 15,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Deferential respect.",
+                        "synonyms": [
+                            "respect",
+                            "homage",
+                            "worship",
+                            "adoration",
+                            "reverence",
+                            "veneration",
+                            "respectfulness",
+                            "honour",
+                            "submission",
+                            "deference"
+                        ],
+                        "example": "they paid obeisance to the Prince"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "ostentatious",
+        "set": 11,
+        "id": 315,
+        "wordNo": 16,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
+                        "synonyms": [
+                            "showy",
+                            "pretentious",
+                            "conspicuous",
+                            "obtrusive",
+                            "flamboyant",
+                            "gaudy",
+                            "garish",
+                            "tinsel",
+                            "tinselly",
+                            "brash",
+                            "vulgar",
+                            "loud",
+                            "extravagant",
+                            "fancy",
+                            "ornate",
+                            "affected",
+                            "theatrical",
+                            "actorly",
+                            "overdone",
+                            "over-elaborate",
+                            "kitsch",
+                            "tasteless"
+                        ],
+                        "example": "books that people buy and display ostentatiously but never actually finish"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "panacea",
+        "set": 11,
+        "id": 316,
+        "wordNo": 17,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A solution or remedy for all difficulties or diseases.",
+                        "synonyms": [
+                            "universal cure",
+                            "cure-all",
+                            "cure for all ills",
+                            "universal remedy",
+                            "sovereign remedy",
+                            "heal-all",
+                            "nostrum",
+                            "elixir",
+                            "wonder drug",
+                            "perfect solution",
+                            "magic formula",
+                            "magic bullet"
+                        ],
+                        "example": "the panacea for all corporate ills"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "perfunctory",
+        "set": 11,
+        "id": 317,
+        "wordNo": 18,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of an action or gesture) carried out with a minimum of effort or reflection.",
+                        "synonyms": [
+                            "cursory",
+                            "desultory"
+                        ],
+                        "example": "he gave a perfunctory nod"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "perilous",
+        "set": 11,
+        "id": 318,
+        "wordNo": 19,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Full of danger or risk.",
+                        "synonyms": [
+                            "dangerous",
+                            "fraught with danger",
+                            "hazardous",
+                            "risky",
+                            "unsafe",
+                            "treacherous"
+                        ],
+                        "example": "a perilous journey south"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "pervasive ",
+        "set": 11,
+        "id": 319,
+        "wordNo": 20,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.",
+                        "synonyms": [
+                            "prevalent",
+                            "penetrating",
+                            "pervading",
+                            "permeating",
+                            "extensive",
+                            "ubiquitous",
+                            "omnipresent",
+                            "present everywhere",
+                            "rife",
+                            "widespread",
+                            "general",
+                            "common",
+                            "universal",
+                            "pandemic",
+                            "epidemic",
+                            "endemic",
+                            "inescapable",
+                            "insidious"
+                        ],
+                        "example": "ageism is pervasive and entrenched in our society"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "preclude",
+        "set": 11,
+        "id": 320,
+        "wordNo": 21,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Prevent from happening; make impossible.",
+                        "synonyms": [
+                            "prevent",
+                            "make it impossible for",
+                            "make it impracticable for",
+                            "rule out",
+                            "put a stop to",
+                            "stop",
+                            "prohibit",
+                            "debar",
+                            "interdict",
+                            "block",
+                            "bar",
+                            "hinder",
+                            "impede",
+                            "inhibit",
+                            "exclude",
+                            "disqualify",
+                            "forbid"
+                        ],
+                        "example": "the secret nature of his work precluded official recognition"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "predilection ",
+        "set": 11,
+        "id": 321,
+        "wordNo": 22,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A preference or special liking for something; a bias in favor of something.",
+                        "synonyms": [
+                            "liking",
+                            "fondness",
+                            "preference",
+                            "partiality",
+                            "taste",
+                            "penchant",
+                            "weakness",
+                            "soft spot",
+                            "fancy",
+                            "inclination",
+                            "leaning",
+                            "bias",
+                            "propensity",
+                            "bent",
+                            "proclivity",
+                            "proneness",
+                            "predisposition",
+                            "tendency",
+                            "affinity",
+                            "appetite",
+                            "love"
+                        ],
+                        "example": "my predilection for Asian food"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "rapacious",
+        "set": 11,
+        "id": 322,
+        "wordNo": 23,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Aggressively greedy or grasping.",
+                        "synonyms": [
+                            "grasping",
+                            "greedy",
+                            "avaricious",
+                            "acquisitive",
+                            "covetous",
+                            "mercenary",
+                            "materialistic",
+                            "insatiable",
+                            "predatory",
+                            "voracious",
+                            "usurious",
+                            "extortionate"
+                        ],
+                        "example": "rapacious landlords"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "relish",
+        "set": 11,
+        "id": 323,
+        "wordNo": 24,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Enjoy greatly.",
+                        "synonyms": [
+                            "enjoy",
+                            "delight in",
+                            "love",
+                            "like",
+                            "adore",
+                            "be pleased by",
+                            "take pleasure in",
+                            "rejoice in",
+                            "appreciate",
+                            "savour",
+                            "revel in",
+                            "luxuriate in",
+                            "glory in"
+                        ],
+                        "example": "he was relishing his moment of glory"
+                    },
+                    {
+                        "definition": "Make pleasant to the taste; add relish to."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Great enjoyment.",
+                        "example": "she swigged a mouthful of wine with relish"
+                    },
+                    {
+                        "definition": "A condiment eaten with plain food to add flavor.",
+                        "synonyms": [
+                            "condiment",
+                            "accompaniment",
+                            "sauce",
+                            "dressing",
+                            "flavouring",
+                            "seasoning",
+                            "dip"
+                        ],
+                        "example": "use salsa as a relish with grilled meat or fish"
+                    },
+                    {
+                        "definition": "An appetizing flavor."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "satirical",
+        "set": 11,
+        "id": 324,
+        "wordNo": 25,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Containing or using satire.",
+                        "example": "a New York-based satirical magazine"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "sham",
+        "set": 11,
+        "id": 325,
+        "wordNo": 26,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A thing that is not what it is purported to be.",
+                        "example": "the proposed legislation is a farce and a sham"
+                    },
+                    {
+                        "definition": "short for pillow sham",
+                        "example": "For, one needs, in addition, the matching comforter, bedskirt, duvet, three types of pillows, shams, draperies, upholstered furniture, tablecloths, fabric lampshades, and rugs."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Falsely present something as the truth.",
+                        "example": "was he ill or was he shamming?"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Bogus; false.",
+                        "synonyms": [
+                            "fake",
+                            "pretended",
+                            "feigned",
+                            "simulated",
+                            "false",
+                            "artificial",
+                            "bogus",
+                            "synthetic",
+                            "spurious",
+                            "ersatz",
+                            "insincere",
+                            "not genuine",
+                            "manufactured",
+                            "contrived",
+                            "affected",
+                            "plastic",
+                            "make-believe",
+                            "fictitious"
+                        ],
+                        "example": "a clergyman who arranged a sham marriage"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "skirt",
+        "set": 11,
+        "id": 326,
+        "wordNo": 27,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Go round or past the edge of.",
+                        "synonyms": [
+                            "go round",
+                            "move round",
+                            "walk round",
+                            "circle",
+                            "circumnavigate"
+                        ]
+                    },
+                    {
+                        "definition": "Attempt to ignore; avoid dealing with.",
+                        "synonyms": [
+                            "avoid",
+                            "evade",
+                            "steer clear of",
+                            "sidestep",
+                            "dodge",
+                            "circumvent",
+                            "bypass",
+                            "pass over",
+                            "fight shy of"
+                        ],
+                        "example": "they are both skirting the issue"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A garment fastened around the waist and hanging down around the legs, worn by women and girls."
+                    },
+                    {
+                        "definition": "A surface that conceals or protects the wheels or underside of a vehicle or aircraft."
+                    },
+                    {
+                        "definition": "An animal's diaphragm and other membranes as food."
+                    },
+                    {
+                        "definition": "Women regarded as objects of sexual desire."
+                    },
+                    {
+                        "definition": "A small flap on a saddle, covering the bar from which the stirrup leather hangs."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "sluggish",
+        "set": 11,
+        "id": 327,
+        "wordNo": 28,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Slow-moving or inactive.",
+                        "synonyms": [
+                            "inactive",
+                            "quiet",
+                            "slow",
+                            "slow-moving",
+                            "slack",
+                            "flat",
+                            "depressed",
+                            "stagnant",
+                            "static"
+                        ],
+                        "example": "a sluggish stream"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "spartan",
+        "set": 11,
+        "id": 328,
+        "wordNo": 29,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Showing the indifference to comfort or luxury traditionally associated with ancient Sparta.",
+                        "synonyms": [
+                            "austere",
+                            "harsh",
+                            "hard",
+                            "frugal",
+                            "stringent",
+                            "rigorous",
+                            "arduous",
+                            "strict",
+                            "stern",
+                            "severe",
+                            "rigid"
+                        ],
+                        "example": "spartan but adequate rooms"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "truculent",
+        "set": 11,
+        "id": 329,
+        "wordNo": 30,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Eager or quick to argue or fight; aggressively defiant.",
+                        "synonyms": [
+                            "defiant",
+                            "aggressive",
+                            "antagonistic",
+                            "belligerent",
+                            "pugnacious",
+                            "bellicose",
+                            "combative",
+                            "confrontational",
+                            "ready for a fight",
+                            "hostile",
+                            "obstreperous",
+                            "argumentative",
+                            "quarrelsome",
+                            "contentious",
+                            "uncooperative"
+                        ],
+                        "example": "his days of truculent defiance were over"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "acrimonious ",
+        "set": 12,
+        "id": 330,
+        "wordNo": 1,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(typically of speech or a debate) angry and bitter.",
+                        "synonyms": [
+                            "bitter",
+                            "rancorous",
+                            "caustic",
+                            "acerbic",
+                            "scathing",
+                            "sarcastic",
+                            "acid",
+                            "harsh",
+                            "sharp",
+                            "razor-edged",
+                            "cutting",
+                            "astringent",
+                            "trenchant",
+                            "mordant",
+                            "virulent"
+                        ],
+                        "example": "an acrimonious dispute about wages"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "belligerent",
+        "set": 12,
+        "id": 331,
+        "wordNo": 2,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A nation or person engaged in war or conflict, as recognized by international law.",
+                        "synonyms": [
+                            "militarist",
+                            "hawk",
+                            "jingoist",
+                            "sabre-rattler",
+                            "aggressor",
+                            "provoker",
+                            "belligerent"
+                        ],
+                        "example": "ships and goods captured at sea by a belligerent"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Hostile and aggressive.",
+                        "synonyms": [
+                            "hostile",
+                            "aggressive",
+                            "threatening",
+                            "antagonistic",
+                            "pugnacious",
+                            "bellicose",
+                            "truculent",
+                            "confrontational",
+                            "argumentative",
+                            "quarrelsome",
+                            "disputatious",
+                            "contentious",
+                            "militant",
+                            "combative"
+                        ],
+                        "example": "a bull-necked, belligerent old man"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "beneficent",
+        "set": 12,
+        "id": 332,
+        "wordNo": 3,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a person) generous or doing good.",
+                        "synonyms": [
+                            "benevolent",
+                            "charitable",
+                            "altruistic",
+                            "humane",
+                            "humanitarian",
+                            "neighbourly",
+                            "public-spirited",
+                            "philanthropic"
+                        ],
+                        "example": "a beneficent landowner"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "canny",
+        "set": 12,
+        "id": 333,
+        "wordNo": 4,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having or showing shrewdness and good judgment, especially in money or business matters.",
+                        "synonyms": [
+                            "shrewd",
+                            "astute",
+                            "sharp",
+                            "sharp-witted",
+                            "discerning",
+                            "acute",
+                            "penetrating",
+                            "discriminating",
+                            "perceptive",
+                            "perspicacious",
+                            "clever",
+                            "intelligent",
+                            "wise",
+                            "sagacious",
+                            "sensible",
+                            "judicious",
+                            "circumspect",
+                            "careful",
+                            "prudent",
+                            "cautious"
+                        ],
+                        "example": "canny shoppers came early for a bargain"
+                    },
+                    {
+                        "definition": "Pleasant; nice.",
+                        "synonyms": [
+                            "friendly",
+                            "agreeable",
+                            "amiable",
+                            "affable",
+                            "nice",
+                            "genial",
+                            "likeable",
+                            "amicable",
+                            "lovely",
+                            "good-humoured",
+                            "personable",
+                            "congenial",
+                            "hospitable",
+                            "approachable",
+                            "good-natured",
+                            "companionable"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "cavalier",
+        "set": 12,
+        "id": 334,
+        "wordNo": 5,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A supporter of King Charles I in the English Civil War.A dashing and attentive man, especially one acting as a lady's escort.A horseman, especially a cavalryman.",
+                        "synonyms": [
+                            "Royalist",
+                            "king's man"
+                        ],
+                        "example": "Those loyal to Parliament were called Roundheads; those loyal to the king were Cavaliers."
+                    },
+                    {
+                        "definition": "A small spaniel of a breed with a moderately long, noncurly, silky coat.",
+                        "example": "They also added the word cavalier to the breed's name."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Showing a lack of proper concern; offhand.",
+                        "synonyms": [
+                            "offhand",
+                            "indifferent",
+                            "casual",
+                            "dismissive",
+                            "insouciant",
+                            "uninterested",
+                            "unconcerned"
+                        ],
+                        "example": "Anne was irritated by his cavalier attitude"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "distressed ",
+        "set": 12,
+        "id": 335,
+        "wordNo": 6,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Suffering from anxiety, sorrow, or pain.",
+                        "synonyms": [
+                            "anguished",
+                            "devastated",
+                            "broken-hearted",
+                            "heavy-hearted",
+                            "suffering",
+                            "grieving",
+                            "grief-stricken",
+                            "grieved",
+                            "inconsolable",
+                            "crushed",
+                            "shattered",
+                            "desolate",
+                            "despairing"
+                        ],
+                        "example": "I was distressed at the news of his death"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "dwindling",
+        "set": 12,
+        "id": 336,
+        "wordNo": 7,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Gradually diminishing in size, amount, or strength."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "eclipse",
+        "set": 12,
+        "id": 337,
+        "wordNo": 8,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "(of a celestial body) obscure the light from or to (another celestial body)",
+                        "example": "as the last piece of the sun was eclipsed by the moon"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination.",
+                        "synonyms": [
+                            "blotting out",
+                            "blocking",
+                            "covering",
+                            "obscuring",
+                            "hiding",
+                            "concealing",
+                            "veiling",
+                            "shrouding",
+                            "darkening"
+                        ],
+                        "example": "an eclipse of the sun"
+                    },
+                    {
+                        "definition": "A phase during which the distinctive markings of a bird (especially a male duck) are obscured by molting of the breeding plumage.",
+                        "example": "eclipse plumage"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "encyclopedic ",
+        "set": 12,
+        "id": 338,
+        "wordNo": 9,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Comprehensive in terms of information.",
+                        "synonyms": [
+                            "comprehensive",
+                            "complete",
+                            "thorough",
+                            "thoroughgoing",
+                            "full",
+                            "exhaustive",
+                            "in-depth",
+                            "wide-ranging",
+                            "broad-ranging",
+                            "broad-based",
+                            "cross-disciplinary",
+                            "interdisciplinary",
+                            "multidisciplinary",
+                            "all-inclusive",
+                            "all-embracing",
+                            "all-encompassing",
+                            "universal",
+                            "vast",
+                            "compendious"
+                        ],
+                        "example": "he has an almost encyclopedic knowledge of food"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "exacerbate",
+        "set": 12,
+        "id": 339,
+        "wordNo": 10,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Make (a problem, bad situation, or negative feeling) worse.",
+                        "synonyms": [
+                            "aggravate",
+                            "make worse",
+                            "worsen",
+                            "inflame",
+                            "compound"
+                        ],
+                        "example": "the exorbitant cost of land in urban areas only exacerbated the problem"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "exasperated",
+        "set": 12,
+        "id": 340,
+        "wordNo": 11,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Intensely irritated and frustrated.",
+                        "example": "an exasperated expression"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "fungible",
+        "set": 12,
+        "id": 341,
+        "wordNo": 12,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of goods contracted for without an individual specimen being specified) able to replace or be replaced by another identical item; mutually interchangeable.",
+                        "example": "it is by no means the world's only fungible commodity"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "hackneyed",
+        "set": 12,
+        "id": 342,
+        "wordNo": 13,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a phrase or idea) lacking significance through having been overused; unoriginal and trite.",
+                        "synonyms": [
+                            "overused",
+                            "overworked",
+                            "overdone",
+                            "worn out",
+                            "time-worn",
+                            "platitudinous",
+                            "vapid",
+                            "stale",
+                            "tired",
+                            "threadbare"
+                        ],
+                        "example": "hackneyed old sayings"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "incongruous",
+        "set": 12,
+        "id": 343,
+        "wordNo": 14,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Not in harmony or keeping with the surroundings or other aspects of something.",
+                        "synonyms": [
+                            "out of place",
+                            "out of keeping",
+                            "inappropriate",
+                            "unsuitable",
+                            "unsuited",
+                            "not in harmony"
+                        ],
+                        "example": "the duffel coat looked incongruous with the black dress she wore underneath"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "interchangeable",
+        "set": 12,
+        "id": 344,
+        "wordNo": 15,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of two things) able to be interchanged.",
+                        "synonyms": [
+                            "exchangeable",
+                            "transposable",
+                            "replaceable"
+                        ],
+                        "example": "eyepieces are interchangeable and one can use any eyepiece with any telescope"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "laconic",
+        "set": 12,
+        "id": 345,
+        "wordNo": 16,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a person, speech, or style of writing) using very few words.",
+                        "synonyms": [
+                            "brief",
+                            "concise",
+                            "terse",
+                            "succinct",
+                            "short",
+                            "economical",
+                            "elliptical",
+                            "crisp",
+                            "pithy",
+                            "to the point",
+                            "incisive",
+                            "short and sweet",
+                            "compendious"
+                        ],
+                        "example": "his laconic reply suggested a lack of interest in the topic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "lucrative",
+        "set": 12,
+        "id": 346,
+        "wordNo": 17,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Producing a great deal of profit.",
+                        "synonyms": [
+                            "profitable",
+                            "profit-making",
+                            "gainful",
+                            "remunerative",
+                            "moneymaking",
+                            "paying",
+                            "high-income",
+                            "well paid",
+                            "high-paying",
+                            "bankable",
+                            "cost-effective"
+                        ],
+                        "example": "a lucrative career as a stand-up comedian"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "magisterial",
+        "set": 12,
+        "id": 347,
+        "wordNo": 18,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having or showing great authority.",
+                        "synonyms": [
+                            "authoritative",
+                            "masterful",
+                            "lordly",
+                            "judge-like"
+                        ],
+                        "example": "a magisterial pronouncement"
+                    },
+                    {
+                        "definition": "Relating to or conducted by a magistrate.",
+                        "example": "magisterial districts"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "onerous",
+        "set": 12,
+        "id": 348,
+        "wordNo": 19,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a task, duty, or responsibility) involving an amount of effort and difficulty that is oppressively burdensome.",
+                        "synonyms": [
+                            "burdensome",
+                            "heavy",
+                            "inconvenient",
+                            "troublesome",
+                            "awkward",
+                            "crushing",
+                            "back-breaking",
+                            "oppressive"
+                        ],
+                        "example": "he found his duties increasingly onerous"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "opprobrium",
+        "set": 12,
+        "id": 349,
+        "wordNo": 20,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Harsh criticism or censure.",
+                        "synonyms": [
+                            "vilification",
+                            "abuse",
+                            "vituperation",
+                            "condemnation",
+                            "criticism",
+                            "censure",
+                            "castigation",
+                            "denunciation",
+                            "defamation",
+                            "denigration",
+                            "disparagement",
+                            "obloquy",
+                            "derogation",
+                            "slander",
+                            "revilement",
+                            "reviling",
+                            "calumny",
+                            "calumniation",
+                            "execration",
+                            "excoriation",
+                            "lambasting",
+                            "upbraiding",
+                            "bad press",
+                            "character assassination",
+                            "attack",
+                            "invective",
+                            "libel",
+                            "insults",
+                            "aspersions"
+                        ],
+                        "example": "his films and the critical opprobrium they have generated"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "parsimonious",
+        "set": 12,
+        "id": 350,
+        "wordNo": 21,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Unwilling to spend money or use resources; stingy or frugal.",
+                        "synonyms": [
+                            "miserly",
+                            "niggardly",
+                            "close-fisted",
+                            "penny-pinching",
+                            "cheese-paring",
+                            "ungenerous",
+                            "penurious",
+                            "illiberal",
+                            "close",
+                            "grasping",
+                            "Scrooge-like",
+                            "stinting",
+                            "sparing",
+                            "frugal"
+                        ],
+                        "example": "parsimonious New Hampshire voters, who have a phobia about taxes"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "peripheral",
+        "set": 12,
+        "id": 351,
+        "wordNo": 22,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A peripheral device.",
+                        "example": "printers and other peripherals"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to or situated on the edge or periphery of something.",
+                        "synonyms": [
+                            "outlying",
+                            "outer",
+                            "on the edge",
+                            "on the outskirts",
+                            "outermost",
+                            "fringe",
+                            "border",
+                            "surrounding"
+                        ],
+                        "example": "the peripheral areas of Europe"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "provocative",
+        "set": 12,
+        "id": 352,
+        "wordNo": 23,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Causing annoyance, anger, or another strong reaction, especially deliberately.",
+                        "synonyms": [
+                            "annoying",
+                            "irritating",
+                            "exasperating",
+                            "infuriating",
+                            "provoking",
+                            "maddening",
+                            "goading",
+                            "vexing",
+                            "galling"
+                        ],
+                        "example": "a provocative article"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "renounce",
+        "set": 12,
+        "id": 353,
+        "wordNo": 24,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Formally declare one's abandonment of (a claim, right, or possession)",
+                        "synonyms": [
+                            "reject",
+                            "refuse to abide by",
+                            "refuse to recognize",
+                            "repudiate"
+                        ],
+                        "example": "Isabella offered to renounce her son's claim to the French Crown"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "tempestuous",
+        "set": 12,
+        "id": 354,
+        "wordNo": 25,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Characterized by strong and turbulent or conflicting emotion.",
+                        "synonyms": [
+                            "turbulent",
+                            "stormy",
+                            "tumultuous",
+                            "violent",
+                            "wild",
+                            "lively",
+                            "heated",
+                            "explosive",
+                            "uncontrolled",
+                            "unrestrained",
+                            "feverish",
+                            "hysterical",
+                            "frenetic",
+                            "frenzied",
+                            "frantic"
+                        ],
+                        "example": "he had a reckless and tempestuous streak"
+                    },
+                    {
+                        "definition": "Very stormy.",
+                        "synonyms": [
+                            "stormy",
+                            "blustery",
+                            "squally",
+                            "wild",
+                            "turbulent",
+                            "windy",
+                            "gusty",
+                            "blowy",
+                            "rainy",
+                            "thundery",
+                            "rough",
+                            "choppy"
+                        ],
+                        "example": "a tempestuous wind"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "tenable",
+        "set": 12,
+        "id": 355,
+        "wordNo": 26,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Able to be maintained or defended against attack or objection.",
+                        "synonyms": [
+                            "defensible",
+                            "justifiable",
+                            "defendable",
+                            "supportable",
+                            "sustainable",
+                            "maintainable",
+                            "arguable",
+                            "able to hold water",
+                            "reasonable",
+                            "rational",
+                            "sound",
+                            "viable",
+                            "workable",
+                            "plausible",
+                            "credible",
+                            "believable",
+                            "conceivable",
+                            "acceptable",
+                            "imaginable"
+                        ],
+                        "example": "such a simplistic approach is no longer tenable"
+                    },
+                    {
+                        "definition": "(of an office, position, scholarship, etc.) able to be held or used.",
+                        "example": "the post is tenable for three years"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "transgression",
+        "set": 12,
+        "id": 356,
+        "wordNo": 27,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act that goes against a law, rule, or code of conduct; an offense.",
+                        "synonyms": [
+                            "offence",
+                            "crime",
+                            "sin",
+                            "wrong",
+                            "wrongdoing",
+                            "misdemeanour",
+                            "felony",
+                            "misdeed",
+                            "lawbreaking",
+                            "vice",
+                            "evil-doing",
+                            "indiscretion",
+                            "peccadillo",
+                            "mischief",
+                            "mischievousness",
+                            "wickedness",
+                            "misbehaviour",
+                            "bad behaviour"
+                        ],
+                        "example": "I'll be keeping an eye out for further transgressions"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "urbane",
+        "set": 12,
+        "id": 357,
+        "wordNo": 28,
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Courteous and refined in manner (typically used of a man)",
+                        "synonyms": [
+                            "suave",
+                            "sophisticated",
+                            "debonair",
+                            "worldly",
+                            "elegant",
+                            "cultivated",
+                            "cultured",
+                            "civilized",
+                            "well bred",
+                            "worldly-wise"
+                        ],
+                        "example": "the supposedly urbane, restrained English gentleman"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "verisimilitude",
+        "set": 12,
+        "id": 358,
+        "wordNo": 29,
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The appearance of being true or real.",
+                        "synonyms": [
+                            "accuracy",
+                            "exactness",
+                            "exactitude",
+                            "precision",
+                            "preciseness",
+                            "correctness",
+                            "scrupulousness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "vitiate",
+        "set": 12,
+        "id": 359,
+        "wordNo": 30,
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Spoil or impair the quality or efficiency of.",
+                        "synonyms": [
+                            "ruin",
+                            "wreck",
+                            "destroy",
+                            "upset",
+                            "undo",
+                            "mess up",
+                            "make a mess of",
+                            "dash",
+                            "sabotage",
+                            "scupper",
+                            "scotch",
+                            "torpedo",
+                            "blast",
+                            "vitiate"
+                        ],
+                        "example": "development programs have been vitiated by the rise in population"
+                    }
+                ]
+            }
+        ]
+    }
+]
