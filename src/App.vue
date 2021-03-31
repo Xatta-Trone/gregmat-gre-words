@@ -161,6 +161,20 @@
       </div>
     </div>
     <!-- current word meanings -->
+    <!-- footer  -->
+
+    <div class="pt-2">
+      <div
+        class="flex pb-5 px-3 m-auto pt-5 border-t border-gray-500 text-gray-400 text-sm flex-col md:flex-row max-w-6xl"
+      >
+        <div class="mt-2">
+          Made with ❤ for GregMat by
+          <a href="https://github.com/Xatta-Trone/" target="_blank"
+            >Xatta Trone</a
+          >
+        </div>
+      </div>
+    </div>
     <notifications group="foo" position="bottom right" />
   </div>
 </template>
