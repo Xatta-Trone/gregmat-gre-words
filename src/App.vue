@@ -336,6 +336,8 @@ export default {
     },
 
     randomWord: function () {
+      this.searchquery = "";
+      this.lower_selected = 0;
       this.current_word = this.words[
         Math.floor(Math.random() * this.words.length)
       ];
@@ -377,6 +379,7 @@ export default {
     },
 
     prevWord() {
+      // this.searchquery = "";
       // console.log(this.current_word.id);
       if (this.current_word.id - 1 > this.currentWordsMinid) {
         this.current_word = this.words[this.current_word.id - 1];
@@ -392,6 +395,7 @@ export default {
     },
     nextWord() {
       console.log(this.current_word.id);
+      // this.searchquery = "";
       if (this.current_word.id + 1 <= this.currentWordsMaxid) {
         this.current_word = this.words[this.current_word.id + 1];
       } else {
@@ -440,6 +444,11 @@ export default {
   },
   watch: {
     // whenever question changes, this function will run
+    lower_selected: function (newval) {
+      if (newval == 0) {
+        this.currentWords = this.words;
+      }
+    },
     currentWords: function (newcurrentWords) {
       console.log("new", newcurrentWords);
       // this.currentWords.sort(function (a, b) {
