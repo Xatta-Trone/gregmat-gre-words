@@ -76,90 +76,78 @@
       </h2>
     </div>
     <!-- current word meanings -->
-
     <div class="container mx-auto">
-      <div class="flex justify-center">
-        <div
-          v-for="(meaning, i) in current_word.meanings"
-          :key="i"
-          class="shadow-xl px-5 py-4 mx-2 rounded-md"
-        >
-          <!-- parts of speech -->
-          <div class="p-2">
+      <div class="mx-auto flex justify-center">
+        <div>
+          <div
+            v-for="(definitons, i) in current_word.definitions"
+            :key="i"
+            class="my-1"
+          >
             <div
-              class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full shadow text-base"
+              class="p-0"
+              v-for="(singledefinition, k) in definitons.definitions"
+              :key="k"
             >
-              <span
-                class="inline-flex bg-indigo-700 text-white rounded-full h-6 px-3 justify-center items-center"
-              >
-                {{ meaning.partOfSpeech }}
-              </span>
-            </div>
-          </div>
-          <!-- end of parts of speech -->
-          <!-- definitions -->
-          <div v-for="(definition, j) in meaning.definitions" :key="j">
-            <!-- definition -->
-            <div class="p-0">
               <div
                 class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full p-2 shadow text-teal text-sm"
               >
                 <span
                   class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
                 >
-                  Definition
+                  {{ definitons.partOfSpeech }}
                 </span>
-                <span class="inline-flex px-2 text-black">{{
-                  definition.definition
+                <span class="inline-flex px-2 text-black max-w-prose">{{
+                  singledefinition
                 }}</span>
               </div>
             </div>
-            <!-- definition -->
-
-            <!-- synonyms -->
-            <div class="py-1" v-show="definition.synonyms">
-              <div
-                class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full my-1 shadow text-teal text-sm"
-              >
-                <span
-                  class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
-                  >Synonyms</span
-                >
-              </div>
-
-              <div class="my-1 flex flex-wrap -m-1 max-w-md">
-                <span
-                  v-for="synoyme in definition.synonyms"
-                  :key="synoyme"
-                  class="m-1 bg-gray-200 hover:bg-gray-200 rounded-full px-2 font-normal text-base leading-loose"
-                  >{{ synoyme }}</span
-                >
-              </div>
-            </div>
-            <!-- synonyms -->
-            <!-- example -->
-            <div class="py-1">
-              <div
-                class="inline-flex items-center bg-white leading-none text-black-600 rounded-full p-2 shadow text-teal text-sm"
-              >
-                <span
-                  class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
-                  >Example</span
-                >
-                <span class="inline-flex px-2">{{ definition.example }}</span>
-              </div>
-            </div>
-
-            <div v-show="meaning.definitions.length > 1" class="my-1">
-              <hr />
-            </div>
-
-            <!-- example -->
           </div>
-          <!-- end of definitions -->
+
+          <!-- synonyms -->
+          <div class="py-1 inline-block" v-show="current_word.synonyms">
+            <div
+              class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full my-1 shadow text-teal text-sm"
+            >
+              <span
+                class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
+                >Synonyms</span
+              >
+            </div>
+
+            <div class="my-1 flex flex-wrap -m-1 max-w-2xl">
+              <span
+                v-for="synoyme in current_word.synonyms"
+                :key="synoyme"
+                class="m-1 bg-gray-200 hover:bg-gray-200 rounded-full px-2 font-normal text-base leading-loose"
+                >{{ synoyme }}</span
+              >
+            </div>
+          </div>
+          <!-- synonyms -->
+
+          <!-- example -->
+          <div
+            class="py-1"
+            v-for="(example, m) in current_word.example"
+            :key="m"
+          >
+            <div
+              class="inline-flex items-center bg-white leading-none text-black-600 rounded-full p-2 shadow text-teal text-sm"
+            >
+              <span
+                class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
+                >Example</span
+              >
+              <span class="inline-flex px-2">{{ example }}</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
+
+    <!-- example -->
+
     <!-- current word meanings -->
     <!-- footer  -->
 
@@ -180,6 +168,8 @@
 </template>
 
 <script>
+const wordskey = "wordsv2";
+const timekey = "wordsexpiery";
 import axios from "axios";
 export default {
   data: function () {
@@ -236,10 +226,10 @@ export default {
     getWords() {
       console.log("words");
 
-      if (localStorage.getItem("wordstoget")) {
+      if (localStorage.getItem(wordskey)) {
         //check time
         console.log("words found");
-        const itemStr = localStorage.getItem("ttl_forwords");
+        const itemStr = localStorage.getItem(timekey);
         // if the item doesn't exist, return null
         if (!itemStr) {
           console.log("ttl not  found");
@@ -252,8 +242,8 @@ export default {
         if (now.getTime() > item.expiry) {
           // If the item is expired, delete the item from storage
           console.log("words expired");
-          localStorage.removeItem("ttl_forwords");
-          localStorage.removeItem("wordstoget");
+          localStorage.removeItem(timekey);
+          localStorage.removeItem(wordskey);
           return this.getaxiosWord();
         }
 
@@ -264,19 +254,19 @@ export default {
       }
     },
     setWords() {
-      this.words = JSON.parse(localStorage.getItem("wordstoget"));
+      this.words = JSON.parse(localStorage.getItem(wordskey));
       this.currentWords = this.words;
       this.randomWord();
     },
     getaxiosWord() {
       let links = [
-        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words1-8.json",
-        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words9-12.json",
-        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words13-20.json",
-        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words21-28.json",
-        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words29-36.json",
-        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words37-46.json",
-        "https://raw.githubusercontent.com/Xatta-Trone/gregmat-gre-words/main/src/words/words47-52.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmatgrewordsdb/main/group_compact_1_8.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmatgrewordsdb/main/group_compact_9_12.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmatgrewordsdb/main/group_compact_13_20.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmatgrewordsdb/main/group_compact_21_28.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmatgrewordsdb/main/group_compact_29_36.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmatgrewordsdb/main/group_compact_37_46.json",
+        "https://raw.githubusercontent.com/Xatta-Trone/gregmatgrewordsdb/main/group_compact_47_52.json",
       ];
       return Promise.all(links.map(this.getWordsFromLink)).then((res) => {
         this.sortWords();
@@ -286,12 +276,12 @@ export default {
         const item = {
           expiry: now.getTime() + 21 * 24 * 3600 * 60,
         };
-        localStorage.setItem("ttl_forwords", JSON.stringify(item));
-        localStorage.setItem("wordstoget", JSON.stringify(this.words));
+        localStorage.setItem(timekey, JSON.stringify(item));
+        localStorage.setItem(wordskey, JSON.stringify(this.words));
         this.setWords();
 
         if (res.indexOf(false) === -1) {
-          localStorage.setItem("wordstoget", JSON.stringify(this.words));
+          localStorage.setItem(wordskey, JSON.stringify(this.words));
           this.$notify({
             group: "foo",
             text:
