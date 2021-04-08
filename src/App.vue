@@ -191,6 +191,7 @@
 <script>
 const wordskey = "wordsv2";
 const timekey = "wordsexpiery";
+const themekey = "gretheme";
 import axios from "axios";
 export default {
   data: function () {
@@ -240,10 +241,19 @@ export default {
     };
   },
   mounted() {
+    this.getTheme();
     this.getWords();
     this.sortWords();
   },
   methods: {
+    getTheme() {
+      if (localStorage.getItem(themekey)) {
+        console.log(JSON.parse(localStorage.getItem(themekey)));
+        this.currentMode = !JSON.parse(localStorage.getItem(themekey));
+
+        this.changeTheme();
+      }
+    },
     getWords() {
       console.log("words");
 
@@ -290,6 +300,7 @@ export default {
       }
       document.body.classList.toggle("dark");
       this.currentMode = !this.currentMode;
+      localStorage.setItem(themekey, JSON.stringify(this.currentMode));
     },
     getaxiosWord() {
       let links = [
