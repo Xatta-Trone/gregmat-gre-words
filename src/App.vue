@@ -1,9 +1,15 @@
 <template>
-  <div>
+  <div class="theme" id="theme">
     <div
-      class="w-full flex flex-row items-center p-2 justify-between bg-white shadow-xs bg-indigo-500"
+      class="w-full flex flex-row items-center p-2 justify-between bg-white shadow-xs bg-indigo-500 mx-auto"
     >
       <div class="ml-8 text-lg text-white hidden md:flex">GregMat GRE</div>
+      <div
+        class="text-lg text-white hidden md:flex mr-8 cursor-pointer"
+        @click="changeTheme()"
+      >
+        {{ currentMode == true ? "Dark mode" : "Light mode" }}
+      </div>
     </div>
 
     <div class="flex items-center justify-center self-center mx-auto mt-3">
@@ -53,12 +59,25 @@
       <!-- search box -->
       <div class="inline-block mx-2 mt-2">
         <input
-          class="w-full h-11 px-4 rounded-lg mb-0 focus:outline-none focus:shadow-outline text-base shadow-md border border-indigo-300"
+          class="w-full h-11 px-4 rounded-lg mb-0 focus:outline-none focus:shadow-outline text-base shadow-md border border-indigo-300 text-black-700 searchfield"
           type="search"
           placeholder="Search words..."
           v-model="searchquery"
           @keyup.prevent="filterwords"
+          @input="filterwords"
+          list="browsers"
         />
+        <datalist
+          id="browsers"
+          class="px-3 py-2 cursor-pointer hover:bg-gray-200"
+        >
+          <option
+            class="px-3 py-2 cursor-pointer hover:bg-gray-200"
+            :value="word.word"
+            v-for="word in currentWords"
+            :key="word.word"
+          ></option>
+        </datalist>
       </div>
       <!-- search box -->
     </div>
@@ -85,7 +104,7 @@
             class="my-1"
           >
             <div
-              class="p-0"
+              class="p-0 my-1"
               v-for="(singledefinition, k) in definitons.definitions"
               :key="k"
             >
@@ -119,7 +138,7 @@
               <span
                 v-for="synoyme in current_word.synonyms"
                 :key="synoyme"
-                class="m-1 bg-gray-200 hover:bg-gray-200 rounded-full px-2 font-normal text-base leading-loose"
+                class="m-1 bg-gray-200 hover:bg-gray-200 rounded-full px-2 font-normal text-base leading-loose text-black"
                 >{{ synoyme }}</span
               >
             </div>
@@ -128,18 +147,20 @@
 
           <!-- example -->
           <div
-            class="py-1"
+            class="py-0"
             v-for="(example, m) in current_word.example"
             :key="m"
           >
             <div
-              class="inline-flex items-center bg-white leading-none text-black-600 rounded-full p-2 shadow text-teal text-sm"
+              class="inline-flex items-center mt-1 bg-white leading-none text-black-600 rounded-full p-2 shadow text-teal text-sm"
             >
               <span
                 class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
                 >Example</span
               >
-              <span class="inline-flex px-2">{{ example }}</span>
+              <span class="inline-flex px-2 max-w-prose text-black">{{
+                example
+              }}</span>
             </div>
           </div>
         </div>
@@ -153,7 +174,7 @@
 
     <div class="pt-2">
       <div
-        class="flex pb-5 px-3 m-auto pt-5 border-t border-gray-500 text-gray-400 text-sm flex-col md:flex-row max-w-6xl"
+        class="flex pb-5 px-3 m-auto border-t border-gray-500 text-gray-400 text-sm flex-col md:flex-row max-w-6xl"
       >
         <div class="mt-2">
           Made with ❤ for GregMat by
@@ -175,7 +196,7 @@ export default {
   data: function () {
     return {
       words: [],
-
+      currentMode: true,
       currentWords: null,
       currentWordsMaxid: null,
       currentWordsMinid: null,
@@ -257,6 +278,18 @@ export default {
       this.words = JSON.parse(localStorage.getItem(wordskey));
       this.currentWords = this.words;
       this.randomWord();
+    },
+    changeTheme() {
+      // document.getElementById("theme").classList.toggle("theme-dark");
+      if (this.currentMode) {
+        document.body.style.backgroundColor = "#121212";
+        document.body.style.color = "white";
+      } else {
+        document.body.style.backgroundColor = "#fff";
+        document.body.style.color = "black";
+      }
+      document.body.classList.toggle("dark");
+      this.currentMode = !this.currentMode;
     },
     getaxiosWord() {
       let links = [
@@ -355,6 +388,7 @@ export default {
         });
         this.currentWords = newset;
 
+        // this.current_word = newset[0];
         this.current_word = newset[Math.floor(Math.random() * newset.length)];
       } else {
         this.$notify({
@@ -462,3 +496,9 @@ export default {
   },
 };
 </script>
+
+<style lang="css">
+.searchfield {
+  color: #121212;
+}
+</style>
