@@ -75,7 +75,7 @@
             class="px-3 py-2 cursor-pointer hover:bg-gray-200"
             :value="word.word"
             v-for="word in currentWords"
-            :key="word.word"
+            :key="word.word + word.id"
           ></option>
         </datalist>
       </div>
@@ -100,13 +100,13 @@
         <div>
           <div
             v-for="(definitons, i) in current_word.definitions"
-            :key="i"
+            :key="current_word + i"
             class="my-1"
           >
             <div
               class="p-0 my-1"
               v-for="(singledefinition, k) in definitons.definitions"
-              :key="k"
+              :key="singledefinition+k"
             >
               <div
                 class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full p-2 shadow text-teal text-sm"
@@ -136,8 +136,8 @@
 
             <div class="my-1 flex flex-wrap -m-1 max-w-2xl">
               <span
-                v-for="synoyme in current_word.synonyms"
-                :key="synoyme"
+                v-for="(synoyme,i) in current_word.synonyms"
+                :key="synoyme + i"
                 class="m-1 bg-gray-200 hover:bg-gray-200 rounded-full px-2 font-normal text-base leading-loose text-black"
                 >{{ synoyme }}</span
               >
@@ -149,7 +149,7 @@
           <div
             class="py-0"
             v-for="(example, m) in current_word.example"
-            :key="m"
+            :key="example +m"
           >
             <div
               class="inline-flex items-center mt-1 bg-white leading-none text-black-600 rounded-full p-2 shadow text-teal text-sm"
@@ -177,7 +177,7 @@
         class="flex pb-5 px-3 m-auto border-t border-gray-500 text-gray-400 text-sm flex-col md:flex-row max-w-6xl"
       >
         <div class="mt-2">
-          Made with ❤ for GregMat by
+          Made with ❤ for <a href="https://www.gregmat.com/" target="_blank">GregMat</a>  by
           <a href="https://github.com/Xatta-Trone/" target="_blank"
             >Xatta Trone</a
           >
@@ -189,7 +189,7 @@
 </template>
 
 <script>
-const wordskey = "wordsv2";
+const wordskey = "wordsv3";
 const timekey = "wordsexpiery";
 const themekey = "gretheme";
 import axios from "axios";
@@ -231,6 +231,10 @@ export default {
         { id: 26, value: "set 26 " },
         { id: 27, value: "set 27 " },
         { id: 28, value: "set 28 " },
+        { id: 29, value: "set 29 " },
+        { id: 30, value: "set 30 " },
+        { id: 31, value: "set 31 " },
+        { id: 32, value: "set 32 " },
       ],
 
       lower_selected: 0,
@@ -416,7 +420,7 @@ export default {
     prevWord() {
       // this.searchquery = "";
       // console.log(this.current_word.id);
-      if (this.current_word.id - 1 > this.currentWordsMinid) {
+      if (this.current_word.id - 1 >= this.currentWordsMinid) {
         this.current_word = this.words[this.current_word.id - 1];
       } else {
         // console.log("ok");
