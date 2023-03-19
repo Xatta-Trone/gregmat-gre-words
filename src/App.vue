@@ -106,7 +106,7 @@
             <div
               class="p-0 my-1"
               v-for="(singledefinition, k) in definitons.definitions"
-              :key="singledefinition+k"
+              :key="singledefinition + k"
             >
               <div
                 class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full p-2 shadow text-teal text-sm"
@@ -136,7 +136,7 @@
 
             <div class="my-1 flex flex-wrap -m-1 max-w-2xl">
               <span
-                v-for="(synoyme,i) in current_word.synonyms"
+                v-for="(synoyme, i) in current_word.synonyms"
                 :key="synoyme + i"
                 class="m-1 bg-gray-200 hover:bg-gray-200 rounded-full px-2 font-normal text-base leading-loose text-black"
                 >{{ synoyme }}</span
@@ -149,7 +149,7 @@
           <div
             class="py-0"
             v-for="(example, m) in current_word.example"
-            :key="example +m"
+            :key="example + m"
           >
             <div
               class="inline-flex items-center mt-1 bg-white leading-none text-black-600 rounded-full p-2 shadow text-teal text-sm"
@@ -161,6 +161,28 @@
               <span class="inline-flex px-2 max-w-prose text-black">{{
                 example
               }}</span>
+            </div>
+          </div>
+          <!-- images -->
+          <div class="py-1">
+            <div v-if="current_word.images">
+              <div class="flex flex-row flex-wrap" >
+                <img
+                  :src="img.src"
+                  :alt="img.alt"
+                  :key="img.src"
+                  v-for="img in current_word.images"
+                />
+              </div>
+              <em
+                >Image example from
+                <a
+                  class="underline"
+                  :href="`https://wordinfo.info/results?searchString=${current_word.word}`"
+                  target="_blank"
+                  >wordinfo.info</a
+                >
+              </em>
             </div>
           </div>
         </div>
@@ -177,7 +199,8 @@
         class="flex pb-5 px-3 m-auto border-t border-gray-500 text-gray-400 text-sm flex-col md:flex-row max-w-6xl"
       >
         <div class="mt-2">
-          Made with ❤ for <a href="https://www.gregmat.com/" target="_blank">GregMat</a>  by
+          Made with ❤ for
+          <a href="https://www.gregmat.com/" target="_blank">GregMat</a> by
           <a href="https://github.com/Xatta-Trone/" target="_blank"
             >Xatta Trone</a
           >
@@ -189,7 +212,7 @@
 </template>
 
 <script>
-const wordskey = "wordsv3";
+const wordskey = "wordsv3a";
 const timekey = "wordsexpiery";
 const themekey = "gretheme";
 import axios from "axios";
@@ -332,8 +355,7 @@ export default {
           localStorage.setItem(wordskey, JSON.stringify(this.words));
           this.$notify({
             group: "foo",
-            text:
-              "there was an error getting words, please press Ctrl+F5 to reload !",
+            text: "there was an error getting words, please press Ctrl+F5 to reload !",
             position: "bottom",
             type: "error",
           });
@@ -364,8 +386,7 @@ export default {
           console.log(err);
           this.$notify({
             group: "foo",
-            text:
-              "there was an error getting words, please press Ctrl+F5 to reload !",
+            text: "there was an error getting words, please press Ctrl+F5 to reload !",
             position: "bottom",
             type: "error",
           });
@@ -376,18 +397,16 @@ export default {
     randomWord: function () {
       this.searchquery = "";
       this.lower_selected = 0;
-      this.current_word = this.words[
-        Math.floor(Math.random() * this.words.length)
-      ];
+      this.current_word =
+        this.words[Math.floor(Math.random() * this.words.length)];
     },
     lowerChange() {
       console.log(this.lower_selected);
 
       if (this.lower_selected == 0) {
         this.currentWords = this.words;
-        this.current_word = this.words[
-          Math.floor(Math.random() * this.words.length)
-        ];
+        this.current_word =
+          this.words[Math.floor(Math.random() * this.words.length)];
         return;
       }
 
