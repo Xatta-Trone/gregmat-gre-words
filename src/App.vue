@@ -94,84 +94,95 @@
         >
       </h2>
     </div>
-    <!-- current word meanings -->
-    <div class="container mx-auto">
-      <div class="mx-auto flex justify-center">
-        <div>
-          <div
-            v-for="(definitons, i) in current_word.definitions"
-            :key="current_word + i"
-            class="my-1"
-          >
-            <div
-              class="p-0 my-1"
-              v-for="(singledefinition, k) in definitons.definitions"
-              :key="singledefinition + k"
-            >
-              <div
-                class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full p-2 shadow text-teal text-sm"
-              >
-                <span
-                  class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
+
+    <div class="container mx-auto px-6">
+      <div class="grid gap-1 grid-flow-col auto-cols">
+        <div class="words-meanings col-auto">
+          <!-- current word meanings -->
+          <div class="container mx-auto">
+            <div class="mx-auto flex justify-center">
+              <div>
+                <div
+                  v-for="(definitons, i) in current_word.definitions"
+                  :key="current_word + i"
+                  class="my-1"
                 >
-                  {{ definitons.partOfSpeech }}
-                </span>
-                <span class="inline-flex px-2 text-black max-w-prose">{{
-                  singledefinition
-                }}</span>
+                  <div
+                    class="p-0 my-1"
+                    v-for="(singledefinition, k) in definitons.definitions"
+                    :key="singledefinition + k"
+                  >
+                    <div
+                      class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full p-2 shadow text-teal text-sm"
+                    >
+                      <span
+                        class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
+                      >
+                        {{ definitons.partOfSpeech }}
+                      </span>
+                      <span class="inline-flex px-2 text-black max-w-prose">{{
+                        singledefinition
+                      }}</span>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- synonyms -->
+                <div class="py-1 inline-block" v-show="current_word.synonyms">
+                  <div
+                    class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full my-1 shadow text-teal text-sm"
+                  >
+                    <span
+                      class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
+                      >Synonyms</span
+                    >
+                  </div>
+
+                  <div class="my-1 flex flex-wrap -m-1 max-w-2xl">
+                    <span
+                      v-for="(synoyme, i) in current_word.synonyms"
+                      :key="synoyme + i"
+                      class="m-1 bg-gray-200 hover:bg-gray-200 rounded-full px-2 font-normal text-base leading-loose text-black"
+                      >{{ synoyme }}</span
+                    >
+                  </div>
+                </div>
+                <!-- synonyms -->
+
+                <!-- example -->
+                <div
+                  class="py-0"
+                  v-for="(example, m) in current_word.example"
+                  :key="example + m"
+                >
+                  <div
+                    class="inline-flex items-center mt-1 bg-white leading-none text-black-600 rounded-full p-2 shadow text-teal text-sm"
+                  >
+                    <span
+                      class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
+                      >Example</span
+                    >
+                    <span class="inline-flex px-2 max-w-prose text-black">{{
+                      example
+                    }}</span>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-
-          <!-- synonyms -->
-          <div class="py-1 inline-block" v-show="current_word.synonyms">
-            <div
-              class="inline-flex items-center bg-white leading-none text-indigo-600 rounded-full my-1 shadow text-teal text-sm"
-            >
-              <span
-                class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
-                >Synonyms</span
-              >
-            </div>
-
-            <div class="my-1 flex flex-wrap -m-1 max-w-2xl">
-              <span
-                v-for="(synoyme, i) in current_word.synonyms"
-                :key="synoyme + i"
-                class="m-1 bg-gray-200 hover:bg-gray-200 rounded-full px-2 font-normal text-base leading-loose text-black"
-                >{{ synoyme }}</span
-              >
-            </div>
-          </div>
-          <!-- synonyms -->
-
-          <!-- example -->
-          <div
-            class="py-0"
-            v-for="(example, m) in current_word.example"
-            :key="example + m"
-          >
-            <div
-              class="inline-flex items-center mt-1 bg-white leading-none text-black-600 rounded-full p-2 shadow text-teal text-sm"
-            >
-              <span
-                class="inline-flex bg-indigo-600 text-white rounded-full h-6 px-3 justify-center items-center"
-                >Example</span
-              >
-              <span class="inline-flex px-2 max-w-prose text-black">{{
-                example
-              }}</span>
-            </div>
-          </div>
+        </div>
+        <!-- img -->
+        <div class="" v-if="current_word.images">
           <!-- images -->
           <div class="py-1">
-            <div v-if="current_word.images">
-              <div class="flex flex-row flex-wrap" >
+            <div >
+              <div class="flex flex-row flex-wrap">
                 <img
                   :src="img.src"
                   :alt="img.alt"
                   :key="img.src"
                   v-for="img in current_word.images"
+                  width="auto"
                 />
               </div>
               <em
