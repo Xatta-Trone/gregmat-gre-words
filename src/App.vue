@@ -1,7 +1,7 @@
 <template>
   <div class="theme" id="theme">
     <div
-      class="w-full flex flex-row items-center p-2 justify-between bg-white shadow-xs bg-indigo-500 mx-auto"
+      class="w-full flex flex-row items-center p-2 justify-between shadow-xs bg-indigo-500 mx-auto"
     >
       <div class="ml-8 text-lg text-white hidden md:flex">GregMat GRE</div>
       <div
@@ -92,7 +92,7 @@
         <small class="text-xs text-gray-600">
           <span
             ><img
-              style="display: inline-block; cursor: pointer;"
+              style="display: inline-block; cursor: pointer"
               :src="imgUrl"
               alt="asdf"
               @click="speak"
@@ -219,8 +219,7 @@
         class="flex justify-between items-start pb-5 m-auto border-t border-gray-500 text-gray-400 text-sm flex-col md:flex-row max-w-6xl"
       >
         <div class="mt-2">
-          Made with ❤ for
-          <a href="https://www.gregmat.com/" target="_blank">GregMat</a> by
+          Made by
           <a href="https://github.com/Xatta-Trone/" target="_blank"
             >Xatta Trone</a
           >
@@ -272,6 +271,14 @@
               <path d="M16 16v-3a2 2 0 0 0 -4 0"></path>
             </svg>
           </a>
+        </div>
+        <div class="mt-2 text-black dark:text-white ">
+          <a
+            href="https://gre-sentence-equivalence.com/"
+            target="_blank"
+            class="font-medium text-blue-600 mt-2 dark:text-blue-500 hover:underline text-lg font-bold"
+            >Visit this better website on GRE vocabulary https://gre-sentence-equivalence.com/</a
+          >
         </div>
         <div class="mt-2">
           <a
@@ -348,7 +355,7 @@ export default {
       return this.speaking
         ? require("./assets/volume-2.svg")
         : require("./assets/volume.svg");
-    }
+    },
   },
   mounted() {
     this.getTheme();
@@ -450,7 +457,8 @@ export default {
           localStorage.setItem(wordskey, JSON.stringify(this.words));
           this.$notify({
             group: "foo",
-            text: "there was an error getting words, please press Ctrl+F5 to reload !",
+            text:
+              "there was an error getting words, please press Ctrl+F5 to reload !",
             position: "bottom",
             type: "error",
           });
@@ -481,7 +489,8 @@ export default {
           console.log(err);
           this.$notify({
             group: "foo",
-            text: "there was an error getting words, please press Ctrl+F5 to reload !",
+            text:
+              "there was an error getting words, please press Ctrl+F5 to reload !",
             position: "bottom",
             type: "error",
           });
@@ -492,16 +501,18 @@ export default {
     randomWord: function () {
       this.searchquery = "";
       this.lower_selected = 0;
-      this.current_word =
-        this.words[Math.floor(Math.random() * this.words.length)];
+      this.current_word = this.words[
+        Math.floor(Math.random() * this.words.length)
+      ];
     },
     lowerChange() {
       console.log(this.lower_selected);
 
       if (this.lower_selected == 0) {
         this.currentWords = this.words;
-        this.current_word =
-          this.words[Math.floor(Math.random() * this.words.length)];
+        this.current_word = this.words[
+          Math.floor(Math.random() * this.words.length)
+        ];
         return;
       }
 
