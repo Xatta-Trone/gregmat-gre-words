@@ -181,7 +181,7 @@
           </div>
         </div>
         <!-- img -->
-        <div class="" v-if="current_word.images.length > 0">
+        <div class="" v-if="current_word.images && current_word.images.length > 0">
           <!-- images -->
           <div class="py-1">
             <div>
