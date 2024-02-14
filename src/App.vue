@@ -181,7 +181,7 @@
           </div>
         </div>
         <!-- img -->
-        <div class="" v-if="current_word.images">
+        <div class="" v-if="current_word.images.length > 0">
           <!-- images -->
           <div class="py-1">
             <div>
@@ -294,8 +294,8 @@
 </template>
 
 <script>
-const wordskey = "wordsv3a";
-const timekey = "wordsexpiery";
+const wordskey = "wordsv4a";
+const timekey = "wordsexpiery2";
 const themekey = "gretheme";
 import axios from "axios";
 export default {
@@ -340,6 +340,11 @@ export default {
         { id: 30, value: "set 30 " },
         { id: 31, value: "set 31 " },
         { id: 32, value: "set 32 " },
+        { id: 33, value: "set 33 " },
+        { id: 34, value: "set 34 " },
+        { id: 35, value: "set 35 " },
+        { id: 36, value: "set 36 " },
+        { id: 37, value: "set 37 " }
       ],
 
       lower_selected: 0,
